@@ -1,0 +1,1001 @@
+TransactionID	Customer Name	Country	Date	Product/Code	Sales	Cost
+0001	Eve Wilson  	IN	2022/04/01	Kappa/g3ofka	   7386  USD	1585 USD
+0002	   Alice Johnson   	UK	04-25-2022	Kappa/bvk8fh	  5635   USD	4941 USD
+0003	   Alice Johnson	Brazil	05-15-2022	Theta/kew2jq	2724  USD	2099 USD
+0004	 Eve Wilson   	Bra	2023/07/28	Iota/y0r4yr	  4366  USD	4172 USD
+0005	 Jane Smith 	United States	04-12-2022	Gamma/ybq9js	  1673   USD	4822 USD
+0006	   John Doe  	IN	2023/07/28	Iota/95l6tp	5919    USD	2473 USD
+0007	 John Doe  	IND	11-27-2022	Eta/glo0vl	9874   USD	3970 USD
+0008	  Jane Smith	FR	2023/07/25	Theta/298v79	  1424  USD	3105 USD
+0009	 Jane Smith  	UK	2023/07/21	Kappa/kq21gi	 8665    USD	4917 USD
+0010	 Jane Smith   	AE	02-08-2023	Iota/tvi6cf	   9737    USD	
+0011	Charlie Davis	India	2022/07/06	Kappa/pvj5v0	   6359 USD	3928 USD
+0012	 Eve Wilson 	Fra	05-01-2022	Zeta/pqipk2	   8432  USD	4725 USD
+0013	Charlie Davis  	US	05-27-2022	Zeta/nnzkcy	2047   USD	4569 USD
+0014	Frank Thomas 	U.S.A	2022/06/22	Epsilon/iuzd6a	 6275   USD	3761 USD
+0015	 Bob Brown 	United Arab Emirates	2023/10/03	Alpha/slb1u2	 9720    USD	858 USD
+0016	  Frank Thomas	United Kingdom	2023/10/22	Beta/zylwcg	 1301    USD	3232 USD
+0017	John Doe	U.K	2023/11/03	Gamma/2ohorp	6775   USD	
+0018	   Alice Johnson 	U.A.E	02-13-2022	Epsilon/7qctse	 814 USD	541 USD
+0019	 Jane Smith	IN	02-04-2022	Delta/6i6q3u	 6958  USD	1558 USD
+0020	  Jane Smith	U.S.A	2023/02/13	Kappa/l0w1wu	   2064  USD	225 USD
+0021	Frank Thomas  	FR	2023/06/01	Gamma/5911l7	 8243    USD	95 USD
+0022	   Eve Wilson   	FR	2022/03/09	Eta/u7avzj	   8860    USD	4217 USD
+0023	  Charlie Davis	US	05-02-2023	Kappa/ffkars	   1848 USD	467 USD
+0024	Alice Johnson  	Brazil	2023/03/10	Zeta/crjlfk	   3733    USD	4520 USD
+0025	   Charlie Davis 	Brazil	07-10-2023	Zeta/k93b48	 4576   USD	3484 USD
+0026	 Eve Wilson   	Ind	06-05-2023	Zeta/yulyiv	  8700   USD	1873 USD
+0027	  Bob Brown  	AE	11-05-2023	Iota/z8j6t9	 8600   USD	2726 USD
+0028	John Doe  	AE	2022/11/07	Epsilon/bfk9ka	 9265    USD	4332 USD
+0029	  Alice Johnson	United States	2022/12/14	Beta/ulw5hc	   7097  USD	4580 USD
+0030	  Eve Wilson 	UK	2023/05/25	Iota/onh5lx	   424   USD	132 USD
+0031	 Eve Wilson  	Fra	05-21-2023	Gamma/6xby31	  2159    USD	3434 USD
+0032	Jane Smith   	Brazil	01-31-2022	Zeta/aj78ih	1188   USD	464 USD
+0033	 Frank Thomas	AE	2022/11/16	Iota/a6fezb	 129   USD	432 USD
+0034	   Eve Wilson 	FRA	11-28-2023	Kappa/mx1tyr	5102    USD	2778 USD
+0035	Bob Brown   	US	2023/03/14	Zeta/2qbeac	3158 USD	4217 USD
+0036	  John Doe  	USA	10-25-2022	Zeta/d0zrwz	 8361 USD	1669 USD
+0037	John Doe  	BRA	05-10-2022	Theta/ey2aq0	 266 USD	4450 USD
+0038	 Jane Smith  	AE	04-08-2022	Beta/8hht1s	   5257    USD	3444 USD
+0039	   Eve Wilson   	U.K	07-24-2022	Delta/y02maa	6907  USD	2866 USD
+0040	 Charlie Davis  	U.A.E	2023/12/10	Gamma/9juuvy	   2979  USD	2528 USD
+0041	 Jane Smith	Brazil	04-03-2023	Iota/x981j2	   4615   USD	807 USD
+0042	  Charlie Davis	IN	09-26-2023	Zeta/ennh4y	1828    USD	1108 USD
+0043	  Bob Brown	UAE	07-15-2022	Delta/0m8eeo	8936 USD	2952 USD
+0044	  Frank Thomas 	Fra	07-31-2022	Kappa/y2raf5	  4456 USD	4736 USD
+0045	  Eve Wilson	Bra	2022/02/21	Theta/qcowuu	3073  USD	3428 USD
+0046	Jane Smith 	BR	2022/03/09	Beta/cgdxuk	 4976  USD	3798 USD
+0047	 Bob Brown	U.A.E	2022/03/10	Gamma/kqnzgt	   7613    USD	999 USD
+0048	Eve Wilson 	AE	05-08-2022	Beta/n9b8fq	 8133   USD	764 USD
+0049	  Alice Johnson	IND	2023/06/25	Epsilon/75y8cg	  944    USD	916 USD
+0050	 Frank Thomas   	U.S.A	03-18-2022	Alpha/mpb2el	   7822  USD	4171 USD
+0051	Alice Johnson	Bra	03-22-2023	Zeta/98cc2l	 9275 USD	4410 USD
+0052	   Eve Wilson 	FR	2023/08/26	Alpha/j30fxf	9081 USD	2409 USD
+0053	 Jane Smith 	Brazil	2022/11/10	Iota/uis0vd	2563  USD	4263 USD
+0054	 Bob Brown  	UAE	2023/06/22	Beta/pjpzq4	  6082    USD	3204 USD
+0055	Frank Thomas	Ind	04-19-2023	Kappa/tkhx7g	   1965   USD	380 USD
+0056	  Bob Brown  	USA	11-24-2023	Eta/i11s5y	1463 USD	2371 USD
+0057	 Bob Brown	USA	2022/02/11	Gamma/61mbcq	6413  USD	938 USD
+0058	 John Doe   	USA	07-23-2023	Gamma/2g3mrr	 8389   USD	4686 USD
+0059	   Alice Johnson	BRA	03-14-2022	Iota/ggyd2p	 8161 USD	1164 USD
+0060	  Charlie Davis 	Fra	02-22-2022	Theta/94e3z0	8242    USD	384 USD
+0061	   Jane Smith   	United Kingdom	2023/11/09	Kappa/ywr1jy	   8957 USD	3434 USD
+0062	   Frank Thomas  	France	2022/09/25	Iota/1u4r86	8237  USD	4206 USD
+0063	   Frank Thomas 	US	05-22-2023	Alpha/rkk2rt	 576    USD	1705 USD
+0064	Bob Brown 	Brazil	05-19-2022	Epsilon/0i9xyi	   9666   USD	3389 USD
+0065	  Bob Brown 	U.S.A	10-14-2022	Epsilon/gnlm9e	  4419 USD	2493 USD
+0066	Frank Thomas 	BR	12-28-2022	Epsilon/t40ju5	  1831 USD	1408 USD
+0067	   Jane Smith   	IND	2023/04/15	Iota/uu9958	 1930  USD	250 USD
+0068	   Charlie Davis   	U.K	2022/12/24	Iota/x0c9zh	3605  USD	3006 USD
+0069	 Alice Johnson  	BRA	07-14-2023	Epsilon/msvl9j	5702    USD	516 USD
+0070	   Bob Brown   	United Arab Emirates	2022/08/25	Iota/drrm7x	  7378  USD	4154 USD
+0071	 Charlie Davis   	India	12-18-2023	Alpha/gflgs0	  6833    USD	4617 USD
+0072	   Bob Brown  	FR	05-29-2023	Beta/qm2giu	6715 USD	471 USD
+0073	Eve Wilson	Bra	2023/01/12	Beta/7a2m1k	   3276 USD	3214 USD
+0074	  Frank Thomas  	USA	2023/12/10	Kappa/v59ryb	  9229 USD	
+0075	Jane Smith   	United Arab Emirates	2022/08/06	Iota/ox048s	9671 USD	1651 USD
+0076	 Alice Johnson 	BR	2022/01/13	Beta/7c1h1j	  711    USD	2062 USD
+0077	 Alice Johnson 	Brazil	03-29-2023	Beta/by1rpa	8772    USD	2367 USD
+0078	  Charlie Davis  	USA	2023/06/05	Gamma/7djiug	4166   USD	766 USD
+0079	Eve Wilson	U.S.A	2023/04/12	Theta/rwakjc	  1509   USD	2530 USD
+0080	  Jane Smith   	U.A.E	2022/10/24	Kappa/4mapsm	 4716   USD	3718 USD
+0081	Jane Smith   	United Arab Emirates	05-29-2022	Beta/itd7e0	  5225 USD	269 USD
+0082	  Alice Johnson   	FR	11-17-2022	Iota/qxbhrc	1956 USD	2632 USD
+0083	 Charlie Davis	U.S.A	2022/07/10	Gamma/jsq3o0	 8642   USD	1984 USD
+0084	  Jane Smith 	UK	2023/08/30	Iota/z0a3hf	9062 USD	4937 USD
+0085	  Frank Thomas	BRA	07-28-2023	Epsilon/jrcf6f	1898    USD	
+0086	   Eve Wilson	Ind	04-20-2022	Delta/hfqmj1	 7189   USD	1500 USD
+0087	John Doe   	U.K	2023/10/10	Delta/rg3711	4791    USD	4348 USD
+0088	   Bob Brown  	U.K	09-09-2023	Eta/50aeft	   9603 USD	3153 USD
+0089	   Alice Johnson 	FRA	2023/09/02	Theta/49awbd	 4229 USD	2884 USD
+0090	Frank Thomas 	U.K	03-16-2022	Gamma/1muadi	3394    USD	3493 USD
+0091	   Charlie Davis  	Fra	05-30-2023	Kappa/wxzup0	  9690  USD	3761 USD
+0092	Frank Thomas  	UK	2023/07/19	Eta/gtvx9o	 4852  USD	3102 USD
+0093	Frank Thomas   	USA	03-22-2022	Iota/vuuryd	  5347  USD	4033 USD
+0094	 John Doe	France	08-07-2023	Theta/0uzlru	9886    USD	1725 USD
+0095	   Charlie Davis   	BR	05-24-2022	Beta/zyq1u6	  8251  USD	4764 USD
+0096	Charlie Davis  	U.S.A	2023/07/30	Eta/x6dj22	 4729 USD	836 USD
+0097	 Bob Brown	United Kingdom	09-25-2022	Beta/9az2cy	 1181   USD	2225 USD
+0098	 Charlie Davis   	UAE	2023/04/07	Theta/1f595c	 5157  USD	1289 USD
+0099	John Doe   	FRA	02-16-2022	Eta/yzu5jz	4645   USD	4395 USD
+0100	   Charlie Davis   	United States	2022/01/07	Alpha/jfyse2	  5388   USD	3098 USD
+0101	  John Doe  	U.A.E	2023/10/25	Beta/s7wra6	   887   USD	1318 USD
+0102	 Eve Wilson  	UK	2022/12/12	Theta/hha694	 125   USD	3006 USD
+0103	 Charlie Davis   	Fra	2023/08/26	Kappa/py6fg6	  8725   USD	2091 USD
+0104	 Frank Thomas   	Ind	06-06-2023	Epsilon/10fkbh	  6291   USD	2887 USD
+0105	   Frank Thomas	France	08-17-2022	Alpha/xkopfq	   4464 USD	1490 USD
+0106	Bob Brown  	AE	2022/12/01	Zeta/p2h0dp	 9596   USD	2399 USD
+0107	 Eve Wilson  	US	2022/12/26	Delta/4rl8c2	   709  USD	294 USD
+0108	Frank Thomas   	Bra	2023/11/26	Theta/q8iw0k	3132    USD	2966 USD
+0109	 Eve Wilson  	AE	2023/05/11	Delta/j864t2	3751 USD	
+0110	   Alice Johnson 	IND	07-03-2023	Eta/28yn78	  9133    USD	4235 USD
+0111	Frank Thomas	United Kingdom	11-22-2023	Alpha/dau56y	  7631 USD	4524 USD
+0112	Eve Wilson	Brazil	03-09-2023	Theta/zhx97a	490   USD	4443 USD
+0113	  John Doe	France	01-30-2022	Iota/8jjh10	 5624  USD	1162 USD
+0114	 Eve Wilson  	U.K	07-29-2022	Epsilon/jkcg6i	8321  USD	3409 USD
+0115	 Jane Smith  	AE	2023/11/17	Theta/pgx8pi	   2756 USD	320 USD
+0116	 Bob Brown 	France	01-28-2023	Eta/7e5lp2	5340   USD	3124 USD
+0117	   Jane Smith 	U.K	2022/04/20	Delta/34ei7w	 5086   USD	2106 USD
+0118	 Jane Smith	IND	2022/08/25	Alpha/mgtq3e	   4521  USD	1058 USD
+0119	  Bob Brown	U.K	03-04-2023	Iota/21xsdn	9823    USD	165 USD
+0120	Alice Johnson	France	2022/02/17	Iota/z63oq6	  141 USD	2226 USD
+0121	 Eve Wilson 	US	2022/03/31	Epsilon/6v6oiv	7537  USD	671 USD
+0122	  Jane Smith	United Kingdom	06-30-2022	Iota/604wpw	   3743  USD	2087 USD
+0123	   John Doe	BRA	2022/03/30	Zeta/fyzjy5	1233    USD	561 USD
+0124	   Jane Smith	BR	06-18-2023	Kappa/8ak8o0	  4762    USD	4786 USD
+0125	 Charlie Davis  	U.A.E	12-20-2022	Iota/iqwblp	  1012 USD	4447 USD
+0126	   Jane Smith  	USA	2023/08/29	Alpha/wpfqk4	  5160  USD	543 USD
+0127	  John Doe 	U.K	01-07-2023	Epsilon/l6q1og	  5333 USD	964 USD
+0128	   Jane Smith  	IN	05-13-2023	Beta/hy5v4c	   7475    USD	2909 USD
+0129	  Jane Smith   	U.A.E	2023/12/27	Iota/0kbho2	 2264    USD	4401 USD
+0130	  Alice Johnson   	IND	2023/10/31	Theta/k2j90e	  3311 USD	373 USD
+0131	   Alice Johnson   	BR	10-30-2022	Beta/m96my3	  3400 USD	1611 USD
+0132	   Eve Wilson	Fra	2023/02/05	Epsilon/ezjvlt	 2830   USD	
+0133	 Frank Thomas 	Bra	2023/11/08	Zeta/agrify	  2130   USD	4963 USD
+0134	Frank Thomas	IN	08-22-2023	Zeta/5uosoi	 9406    USD	308 USD
+0135	  Eve Wilson	FR	2023/12/07	Gamma/4feoho	   1880 USD	1752 USD
+0136	 Alice Johnson   	FRA	2022/03/14	Eta/wzddo5	7904 USD	3790 USD
+0137	   Jane Smith	IN	02-13-2023	Gamma/x679ey	  8131  USD	1428 USD
+0138	 Alice Johnson 	FR	2022/04/02	Alpha/d0bdgv	   8912 USD	868 USD
+0139	 Eve Wilson   	BRA	10-16-2023	Beta/ods4ey	   5791   USD	3220 USD
+0140	   Jane Smith  	AE	09-15-2023	Beta/jzn2qp	5325 USD	1850 USD
+0141	  Bob Brown   	United Kingdom	2022/08/15	Iota/x1h9xw	4938   USD	2818 USD
+0142	Jane Smith   	UAE	2022/03/21	Beta/xfz4f0	9360    USD	153 USD
+0143	  John Doe 	FR	02-18-2023	Theta/261wtb	   8266   USD	1446 USD
+0144	 Bob Brown	US	2022/08/20	Theta/3r58jm	   8999 USD	4546 USD
+0145	Jane Smith	Ind	06-17-2023	Eta/zvm0fe	5913  USD	4590 USD
+0146	Jane Smith	Brazil	11-11-2022	Kappa/p7yih7	 8329    USD	4746 USD
+0147	  Jane Smith   	India	06-20-2023	Zeta/hni27f	4612    USD	1142 USD
+0148	Charlie Davis  	AE	08-14-2023	Beta/fyasl7	1762    USD	
+0149	   Bob Brown   	U.S.A	2023/12/12	Delta/mfh3r1	   7934 USD	702 USD
+0150	Charlie Davis  	Ind	2023/09/07	Epsilon/ghkiux	  3151 USD	807 USD
+0151	   Frank Thomas	FR	05-11-2023	Gamma/vwlzfw	  5884 USD	2516 USD
+0152	   Frank Thomas  	United Kingdom	09-18-2022	Beta/cycg0h	  3413 USD	2147 USD
+0153	Jane Smith  	Ind	12-29-2022	Zeta/qlggrs	9825    USD	1122 USD
+0154	Bob Brown 	FR	12-05-2023	Eta/iefpdk	 8184   USD	2595 USD
+0155	John Doe	U.K	11-16-2023	Beta/2w82tg	   6987   USD	
+0156	   Charlie Davis  	AE	12-27-2022	Epsilon/dx9sc0	  9106 USD	
+0157	   Alice Johnson 	U.K	2023/02/05	Iota/zhm6z9	 7341  USD	2070 USD
+0158	 Eve Wilson  	Brazil	2022/12/02	Theta/7bhasv	 6815  USD	2533 USD
+0159	 Bob Brown   	Fra	09-25-2022	Beta/3yk2nd	 4592 USD	
+0160	 Alice Johnson 	U.A.E	10-06-2022	Gamma/u3v2t7	 5040    USD	2985 USD
+0161	Charlie Davis 	UK	2022/05/29	Iota/b2sgzd	  9671   USD	
+0162	 Alice Johnson  	USA	02-23-2023	Eta/9sajdk	7758    USD	4714 USD
+0163	Bob Brown	United States	07-30-2022	Epsilon/1x5r2m	  2261  USD	3547 USD
+0164	Bob Brown  	Bra	03-05-2022	Alpha/q0d9dr	   5952  USD	3797 USD
+0165	Charlie Davis  	India	2022/11/08	Theta/xd1e9k	 6933   USD	4451 USD
+0166	 Jane Smith 	AE	01-03-2022	Eta/nt9yzc	6559   USD	
+0167	   Jane Smith  	U.K	2022/02/23	Delta/lni9uk	  7776 USD	615 USD
+0168	   Charlie Davis	France	2023/03/20	Zeta/romq3j	8961 USD	3933 USD
+0169	   Charlie Davis   	U.K	2023/09/29	Zeta/wgeewx	8623 USD	4045 USD
+0170	  Bob Brown  	U.K	2023/11/13	Delta/070bux	   2244   USD	2739 USD
+0171	Alice Johnson 	US	2022/09/12	Eta/5afsom	  8018  USD	2277 USD
+0172	John Doe	U.A.E	2022/03/02	Gamma/9x5eg3	   3482   USD	1083 USD
+0173	 Frank Thomas   	Fra	11-10-2023	Theta/u87lnh	 2645    USD	1936 USD
+0174	 Eve Wilson  	AE	2023/02/14	Eta/tbgoq8	  6341    USD	
+0175	   Frank Thomas  	IN	2023/05/26	Epsilon/208zn1	   2488 USD	1334 USD
+0176	 Frank Thomas   	AE	01-15-2023	Alpha/ofdc2d	  5198  USD	2587 USD
+0177	 Alice Johnson	Ind	06-26-2022	Zeta/1f9z6s	   7429 USD	87 USD
+0178	 Eve Wilson  	BRA	2022/11/20	Eta/cnir5e	5899  USD	2704 USD
+0179	   John Doe 	FR	08-01-2023	Alpha/5pj5lr	  4634  USD	2903 USD
+0180	 Bob Brown	United States	2022/06/18	Theta/xq4lkr	 4785  USD	1740 USD
+0181	 Eve Wilson  	Fra	2023/09/03	Epsilon/2l3ywe	   6519 USD	278 USD
+0182	Bob Brown   	USA	09-18-2022	Delta/5chifl	 1296 USD	2828 USD
+0183	  Jane Smith   	USA	2023/11/21	Alpha/3w7g40	   3114   USD	2185 USD
+0184	Eve Wilson 	IND	2022/04/16	Beta/uav8p8	   479  USD	884 USD
+0185	Charlie Davis	USA	06-24-2023	Kappa/0ekbhk	  7088  USD	2164 USD
+0186	 Frank Thomas 	U.K	02-17-2023	Zeta/b744jc	6401    USD	3915 USD
+0187	 Frank Thomas	UK	07-24-2023	Alpha/3v74oc	 8010    USD	2781 USD
+0188	Jane Smith   	U.S.A	06-09-2023	Eta/wuqv52	3220  USD	4954 USD
+0189	   Charlie Davis   	Bra	03-10-2022	Eta/o3iazv	  7373  USD	
+0190	 John Doe 	UK	2022/03/11	Iota/8eeaji	 1361    USD	595 USD
+0191	   Charlie Davis   	USA	10-14-2023	Kappa/gk727g	 2475   USD	1639 USD
+0192	  John Doe	FR	2022/02/25	Gamma/a658vq	   6596 USD	1927 USD
+0193	 Eve Wilson   	BR	2022/02/14	Gamma/h2kiod	 4039 USD	1345 USD
+0194	Eve Wilson	Brazil	09-11-2022	Beta/i02xjo	  4913 USD	1134 USD
+0195	 Eve Wilson 	United Kingdom	2023/08/22	Beta/qpr7c2	4425    USD	2597 USD
+0196	John Doe  	Ind	11-20-2023	Gamma/isaitd	2407  USD	1849 USD
+0197	   Jane Smith 	United States	2023/06/09	Kappa/n3tzxx	  4523  USD	4729 USD
+0198	Eve Wilson 	Fra	07-23-2023	Eta/o2p1fy	579   USD	3197 USD
+0199	  John Doe   	United States	2022/12/06	Eta/fmt0xl	   9911 USD	3777 USD
+0200	  Charlie Davis   	France	11-26-2023	Eta/1evp0d	9557 USD	4774 USD
+0201	   Jane Smith	FR	08-02-2023	Beta/6ng5ud	   6081  USD	180 USD
+0202	  Alice Johnson	FRA	2022/02/22	Beta/o5c3xs	7967   USD	1205 USD
+0203	 John Doe	France	2022/11/23	Delta/9dj922	   1748 USD	1715 USD
+0204	 Bob Brown  	Brazil	2023/06/26	Alpha/43gq07	   154 USD	1590 USD
+0205	John Doe   	Fra	2022/04/20	Alpha/p5tx0x	2101 USD	4296 USD
+0206	  Jane Smith	U.S.A	10-17-2022	Kappa/tqayc7	 2362 USD	
+0207	   Alice Johnson 	U.K	2023/05/23	Epsilon/9wjvu7	5957   USD	4312 USD
+0208	Jane Smith   	BR	2022/01/22	Kappa/dme96y	  1747  USD	3911 USD
+0209	  Eve Wilson  	France	11-17-2023	Epsilon/tqbe8q	   3591   USD	1801 USD
+0210	   John Doe 	United States	07-16-2023	Delta/kct58v	  9522    USD	4746 USD
+0211	 Jane Smith 	FR	04-03-2022	Beta/4dzkb3	 7734    USD	1642 USD
+0212	Jane Smith  	United Arab Emirates	2022/01/23	Gamma/kqmfzf	 3049  USD	4802 USD
+0213	Bob Brown	U.K	10-26-2023	Alpha/5ck9d9	   4962    USD	768 USD
+0214	   Eve Wilson	U.S.A	11-22-2022	Epsilon/ypi5qt	 392   USD	564 USD
+0215	   John Doe  	FRA	04-21-2022	Gamma/2ka9eq	   5520   USD	1366 USD
+0216	 Frank Thomas  	IND	04-18-2023	Epsilon/823zd6	6348 USD	2767 USD
+0217	  John Doe   	United Arab Emirates	09-29-2023	Iota/vmvkfg	  8799 USD	3572 USD
+0218	   Alice Johnson 	IN	01-03-2022	Kappa/wefhbw	   3567   USD	3627 USD
+0219	Eve Wilson  	India	2022/09/29	Beta/31a5b6	   8491   USD	4618 USD
+0220	   Eve Wilson 	Ind	08-04-2022	Gamma/bloamd	   6361  USD	3017 USD
+0221	   John Doe	Brazil	08-09-2022	Kappa/1tgjei	4052   USD	1656 USD
+0222	   Jane Smith 	UK	2023/02/08	Kappa/sbzweu	   6910 USD	
+0223	Jane Smith   	India	2022/03/17	Iota/wd4b95	  6284   USD	4911 USD
+0224	 Bob Brown	Bra	03-22-2022	Theta/fg1zpo	   1964    USD	523 USD
+0225	 Jane Smith 	UK	2022/07/06	Iota/6t3qrl	   3610  USD	1268 USD
+0226	 Jane Smith 	BR	2023/06/16	Kappa/ko68l2	 8115   USD	2264 USD
+0227	 Charlie Davis   	Bra	2022/01/27	Beta/2ru5m0	   523   USD	2972 USD
+0228	 John Doe  	IN	04-09-2023	Zeta/vm8m1a	  3041 USD	3391 USD
+0229	  Bob Brown 	India	01-08-2023	Epsilon/zgsezk	  5373   USD	
+0230	  Eve Wilson 	IN	10-02-2022	Eta/uf6ahs	3318 USD	4862 USD
+0231	  Eve Wilson 	India	2023/11/19	Beta/pr7xrg	   8420   USD	357 USD
+0232	 Frank Thomas  	India	01-05-2022	Epsilon/wnm4ns	   7050    USD	872 USD
+0233	  Frank Thomas  	IN	2023/06/26	Delta/r8124i	  9697    USD	2975 USD
+0234	  Charlie Davis  	Fra	2022/06/29	Alpha/855ya9	   6742 USD	4342 USD
+0235	   Bob Brown 	FRA	2023/02/09	Theta/plzgj1	 2892  USD	4233 USD
+0236	Bob Brown 	U.A.E	2023/09/12	Delta/sf4bhj	   5696   USD	4644 USD
+0237	   Alice Johnson 	IN	2023/11/18	Gamma/yw4l4u	  577   USD	4546 USD
+0238	   Bob Brown 	UAE	07-27-2023	Alpha/fs1m32	 3216   USD	179 USD
+0239	   Jane Smith   	IN	2022/04/01	Gamma/f0m9ug	  4311 USD	4222 USD
+0240	John Doe  	IND	2023/12/28	Epsilon/47te4j	  2481    USD	3974 USD
+0241	   Frank Thomas 	UK	03-06-2023	Alpha/o89xm9	  4465   USD	1451 USD
+0242	  Eve Wilson 	Fra	2023/05/18	Epsilon/q1gi7d	   5528 USD	4864 USD
+0243	  Alice Johnson	United Kingdom	03-18-2023	Alpha/9xd99k	 9828  USD	2876 USD
+0244	   Frank Thomas	BR	12-16-2023	Beta/q2vw2g	   6593   USD	2508 USD
+0245	 Alice Johnson   	US	2023/07/11	Zeta/le0ytf	  5823  USD	2889 USD
+0246	   Charlie Davis 	U.A.E	02-09-2022	Theta/0ll7l7	 391   USD	
+0247	  Eve Wilson	AE	2023/03/29	Delta/vvnvl6	   9188    USD	3325 USD
+0248	   John Doe  	AE	02-03-2023	Theta/fl7boi	  653   USD	857 USD
+0249	 Alice Johnson 	United Kingdom	2022/09/15	Zeta/a56rt1	5099 USD	4248 USD
+0250	   Jane Smith  	U.S.A	2022/05/25	Gamma/m510d6	5445   USD	3684 USD
+0251	   Frank Thomas  	Fra	2022/03/10	Zeta/4rv880	  5866   USD	3790 USD
+0252	 John Doe   	U.K	2022/07/03	Gamma/qi550i	9274  USD	718 USD
+0253	   Charlie Davis   	USA	03-30-2022	Iota/lfmhi9	   978  USD	411 USD
+0254	   Bob Brown   	U.A.E	2023/10/04	Alpha/gxsy9y	8907   USD	2901 USD
+0255	  Eve Wilson   	US	11-03-2022	Eta/gv81b5	4224  USD	2708 USD
+0256	John Doe   	FRA	2023/06/11	Delta/yjxwrr	5987  USD	3126 USD
+0257	   Alice Johnson   	Fra	2023/04/15	Iota/yjoi44	   9993   USD	3354 USD
+0258	 Jane Smith 	Fra	11-25-2022	Alpha/ubpedg	   3172 USD	1644 USD
+0259	 Alice Johnson 	U.K	01-28-2022	Gamma/p7j6aa	 7230   USD	2133 USD
+0260	  Frank Thomas	BR	02-02-2022	Kappa/e18eca	  5738 USD	4892 USD
+0261	   John Doe 	Fra	2022/06/04	Iota/kderx4	7805 USD	2616 USD
+0262	Bob Brown   	BR	2023/10/06	Epsilon/9zd6qe	   2522    USD	503 USD
+0263	 Frank Thomas	United Kingdom	2022/10/12	Theta/m8x9yp	  1184 USD	4127 USD
+0264	   John Doe 	United Kingdom	11-09-2023	Eta/u6dwyj	  2741   USD	3467 USD
+0265	Alice Johnson 	Bra	09-21-2023	Zeta/v3xpd4	  2425 USD	1806 USD
+0266	 Jane Smith 	IN	10-26-2022	Iota/i126vb	   9215  USD	509 USD
+0267	   Frank Thomas   	AE	2023/03/24	Zeta/mxneow	1147   USD	171 USD
+0268	  Frank Thomas  	FR	2022/11/08	Eta/usgl6o	 6277  USD	3754 USD
+0269	John Doe   	U.S.A	12-20-2022	Gamma/ekxlfo	  8460 USD	1975 USD
+0270	 Alice Johnson   	US	2022/02/15	Kappa/28p3gj	6094   USD	3147 USD
+0271	   Frank Thomas   	AE	07-28-2023	Kappa/e7nz12	   2279   USD	
+0272	 Charlie Davis   	FR	08-28-2023	Theta/daon7j	 6926  USD	4035 USD
+0273	  Eve Wilson  	UAE	2023/03/13	Zeta/58bnpy	2111    USD	
+0274	   Charlie Davis   	USA	07-27-2023	Beta/lt39v3	7440   USD	1419 USD
+0275	   Alice Johnson	FR	2022/06/22	Gamma/y58jiy	   7992 USD	2433 USD
+0276	   John Doe  	U.S.A	2023/02/11	Epsilon/hm9odh	 4379   USD	4637 USD
+0277	  Alice Johnson	U.K	03-11-2023	Iota/5bnwee	 6438   USD	505 USD
+0278	  Alice Johnson 	France	2022/01/21	Iota/8c86y0	   8943 USD	2570 USD
+0279	 Bob Brown  	U.S.A	01-11-2022	Delta/kv3giu	 975    USD	3157 USD
+0280	Frank Thomas 	U.A.E	11-28-2023	Zeta/4yybeg	   1049   USD	2954 USD
+0281	Jane Smith  	FR	2022/08/01	Kappa/vgxio6	   6530  USD	3848 USD
+0282	 Charlie Davis   	Ind	2023/08/30	Beta/8k244e	5312  USD	
+0283	 Charlie Davis   	FR	2022/11/13	Gamma/io080j	 3085 USD	1274 USD
+0284	   Bob Brown  	US	2023/05/08	Alpha/eljyl1	  9676  USD	2265 USD
+0285	  Bob Brown 	Ind	2023/01/11	Iota/tq4fx6	   3438 USD	
+0286	Jane Smith   	IND	06-25-2022	Alpha/szunig	  5324 USD	3328 USD
+0287	  Charlie Davis	Fra	06-30-2023	Kappa/ha4eiz	2424   USD	3814 USD
+0288	John Doe   	United States	02-11-2023	Alpha/wx41nb	8321    USD	515 USD
+0289	 John Doe	United States	2022/10/20	Theta/n237ys	 5906  USD	2381 USD
+0290	   Jane Smith 	Ind	01-10-2023	Eta/phb3tj	 750  USD	552 USD
+0291	  Jane Smith  	U.K	2023/06/16	Eta/zlaf1a	  315  USD	2274 USD
+0292	   Eve Wilson 	IND	2023/05/13	Beta/yfn0yr	7859   USD	3901 USD
+0293	  Eve Wilson  	Brazil	2022/08/17	Delta/8x9o1q	   6763    USD	1975 USD
+0294	 Jane Smith   	Fra	11-04-2022	Delta/gv26g2	 8567   USD	387 USD
+0295	   Bob Brown 	Bra	11-10-2022	Zeta/j8fwc7	 4815 USD	1568 USD
+0296	John Doe	U.K	01-09-2022	Alpha/s9bqjl	   513    USD	3020 USD
+0297	Charlie Davis  	Fra	2023/12/23	Gamma/o33sow	2640  USD	503 USD
+0298	Alice Johnson 	IND	2022/04/03	Eta/bg8jss	   2751 USD	1362 USD
+0299	 Charlie Davis 	Fra	08-03-2023	Zeta/zl68tz	   1984    USD	615 USD
+0300	Jane Smith	Bra	2023/08/16	Beta/fr7mls	  3045    USD	3816 USD
+0301	  Bob Brown 	U.S.A	2022/03/31	Kappa/qq16mk	  1852  USD	4340 USD
+0302	Eve Wilson  	U.A.E	01-04-2023	Iota/aejte7	3530   USD	1279 USD
+0303	Jane Smith	BR	03-18-2022	Zeta/l2diqy	6895 USD	1992 USD
+0304	  Charlie Davis  	FR	2023/09/09	Epsilon/4w712l	   7847  USD	841 USD
+0305	 Alice Johnson   	United Arab Emirates	05-01-2022	Gamma/5hdw7d	   4396    USD	4210 USD
+0306	John Doe 	Brazil	04-21-2023	Delta/nmdjwt	5677   USD	4808 USD
+0307	Alice Johnson	U.K	04-13-2022	Eta/qw11lb	  3263   USD	363 USD
+0308	   Jane Smith	AE	11-28-2022	Alpha/trdkdi	  9583  USD	2310 USD
+0309	  Frank Thomas  	US	01-21-2023	Eta/omo38a	   2198   USD	84 USD
+0310	  Alice Johnson 	FRA	2022/07/17	Zeta/a30l0n	5615  USD	4412 USD
+0311	 Jane Smith   	U.K	2022/03/14	Delta/0ows9k	  3384 USD	2803 USD
+0312	 Charlie Davis  	UK	09-04-2022	Theta/bv04ov	   8817  USD	3810 USD
+0313	 Charlie Davis	IN	2022/02/05	Epsilon/r4gv4w	8620  USD	3232 USD
+0314	   Bob Brown  	UK	05-14-2023	Theta/lvxfgn	313   USD	56 USD
+0315	 Jane Smith 	U.A.E	2023/03/08	Kappa/73sgc6	  5575   USD	916 USD
+0316	 Frank Thomas   	France	09-26-2023	Iota/9wektu	 8264    USD	4624 USD
+0317	   John Doe  	France	02-15-2023	Iota/i0g4af	  6749   USD	811 USD
+0318	  John Doe 	BR	2022/08/09	Gamma/du2bec	 8839  USD	2852 USD
+0319	  Frank Thomas	France	07-12-2022	Theta/tha90g	  593    USD	3242 USD
+0320	 John Doe  	IN	2022/09/08	Epsilon/x7xevh	657    USD	2855 USD
+0321	 Alice Johnson 	Ind	08-28-2023	Zeta/9iyeub	   2291   USD	3834 USD
+0322	  John Doe 	UK	2023/12/18	Epsilon/i06q0r	  5600   USD	3747 USD
+0323	  Charlie Davis  	United Kingdom	2022/07/08	Theta/571cd3	  7045  USD	4029 USD
+0324	  Alice Johnson	India	11-20-2023	Eta/jit841	  820  USD	1412 USD
+0325	   Frank Thomas   	IND	03-14-2022	Delta/lktazo	8038   USD	2430 USD
+0326	Bob Brown   	France	2022/11/25	Gamma/0y9nph	  770  USD	
+0327	Charlie Davis	Brazil	01-08-2023	Delta/hm3zql	  4589   USD	
+0328	 Charlie Davis  	United States	02-04-2022	Beta/mhmr56	 196   USD	1756 USD
+0329	Jane Smith  	United Arab Emirates	2022/12/03	Beta/vewje2	 8363  USD	108 USD
+0330	 Jane Smith	U.A.E	2023/05/11	Eta/omlzbg	   7722  USD	4430 USD
+0331	Eve Wilson	FRA	2022/01/06	Eta/ut1g8a	1911  USD	1607 USD
+0332	Bob Brown   	United Arab Emirates	2023/04/14	Eta/s6we8k	   8942    USD	4789 USD
+0333	Charlie Davis 	U.S.A	2023/11/27	Delta/j2qu4s	  1372    USD	4725 USD
+0334	 Bob Brown  	UAE	02-16-2023	Theta/xjokzx	   5499  USD	3300 USD
+0335	   Bob Brown	US	09-16-2023	Theta/9hzn22	  3956   USD	2337 USD
+0336	  Charlie Davis   	IN	08-23-2022	Epsilon/tmad8s	1176  USD	2737 USD
+0337	   Charlie Davis 	United Kingdom	2023/10/02	Eta/n0lqcw	 4569    USD	3581 USD
+0338	 John Doe  	BR	11-21-2023	Theta/m29xh3	  1997   USD	2092 USD
+0339	   Charlie Davis 	USA	2022/07/02	Gamma/x03ml9	2254  USD	3418 USD
+0340	   Charlie Davis  	UK	11-30-2022	Theta/12zlxu	 847    USD	1676 USD
+0341	  Bob Brown   	Fra	05-18-2022	Alpha/gg0696	 5793    USD	
+0342	John Doe 	Ind	2022/02/01	Kappa/l0vank	  4964  USD	1887 USD
+0343	   John Doe 	Bra	2023/05/16	Gamma/gqf995	 1426  USD	2287 USD
+0344	  Charlie Davis   	U.A.E	09-07-2023	Epsilon/sqef2h	8666 USD	673 USD
+0345	 Eve Wilson   	AE	2022/07/14	Gamma/679135	   7110    USD	2402 USD
+0346	   Eve Wilson  	BR	04-28-2022	Gamma/ihnl9m	   9586 USD	2362 USD
+0347	   John Doe 	U.A.E	01-11-2022	Zeta/1hie0e	   7852 USD	1383 USD
+0348	   Alice Johnson   	Fra	10-25-2023	Alpha/pn6xew	 7975   USD	561 USD
+0349	Jane Smith   	United States	2023/01/16	Gamma/a6h5lj	5184    USD	1138 USD
+0350	Frank Thomas   	U.K	02-10-2022	Gamma/txmwrm	  5898   USD	4431 USD
+0351	John Doe  	United Kingdom	2023/01/21	Alpha/udeesy	  4005    USD	2824 USD
+0352	   Jane Smith	United Arab Emirates	2022/12/20	Kappa/ew8bhx	  9342    USD	
+0353	   Frank Thomas	FRA	2022/03/13	Beta/sybm1h	  7680  USD	1900 USD
+0354	Jane Smith 	Fra	2022/06/07	Kappa/8jrbq4	  6284 USD	2405 USD
+0355	 Charlie Davis   	United Kingdom	2023/11/11	Beta/4carhl	   7233  USD	1384 USD
+0356	  Eve Wilson  	U.S.A	2023/12/27	Zeta/h7p14u	 4205   USD	1642 USD
+0357	  Eve Wilson  	AE	2022/04/24	Beta/satvni	3861  USD	3474 USD
+0358	Bob Brown	IND	02-20-2023	Theta/tnjjo2	  8839   USD	1596 USD
+0359	John Doe  	UK	2022/07/20	Theta/k2ek2k	  9972 USD	1991 USD
+0360	  Alice Johnson   	USA	03-23-2022	Alpha/gj4ici	 3649  USD	1765 USD
+0361	  John Doe	US	2022/06/01	Zeta/6cpydi	  737   USD	1033 USD
+0362	  Eve Wilson 	FR	2022/06/13	Kappa/6omngx	  3943    USD	453 USD
+0363	  Bob Brown	U.K	04-07-2022	Delta/467van	 2096  USD	3739 USD
+0364	   Frank Thomas 	Bra	01-22-2023	Gamma/b41rog	 3169 USD	4618 USD
+0365	   Bob Brown  	IND	2022/12/23	Iota/4wo8f5	 6479  USD	1102 USD
+0366	 Eve Wilson   	U.K	12-05-2023	Delta/esaavt	   7951   USD	4629 USD
+0367	 Bob Brown  	United Arab Emirates	09-08-2022	Theta/gn46wu	  3775  USD	3032 USD
+0368	  Frank Thomas   	U.K	11-03-2023	Beta/msfdo3	   5917    USD	753 USD
+0369	 John Doe 	India	2022/08/19	Delta/dc26hd	   1794   USD	2273 USD
+0370	  Charlie Davis   	FR	12-04-2023	Beta/kqrbj1	   5890  USD	1814 USD
+0371	  Charlie Davis	U.S.A	2022/07/23	Theta/hvn9ng	   1350  USD	3227 USD
+0372	   Frank Thomas  	Ind	2023/09/14	Alpha/j7ysb4	  7597    USD	4142 USD
+0373	   John Doe	Bra	2023/05/24	Theta/z0o21s	6087  USD	813 USD
+0374	   Charlie Davis	AE	08-04-2022	Zeta/wz5sw3	   5688    USD	3650 USD
+0375	  Alice Johnson   	BRA	04-25-2023	Kappa/mk8pqo	9311    USD	1376 USD
+0376	   Eve Wilson   	IN	03-31-2022	Beta/w0dy7u	   2654   USD	502 USD
+0377	Jane Smith 	IN	2022/03/23	Delta/c5whua	   9454    USD	
+0378	  Frank Thomas  	United Arab Emirates	2023/05/10	Iota/z0r040	 2353   USD	2529 USD
+0379	   Charlie Davis 	BR	08-21-2023	Eta/0lsi8k	   7188 USD	2116 USD
+0380	  Eve Wilson   	USA	2022/12/24	Iota/r8ildr	 7776    USD	4287 USD
+0381	   Eve Wilson	Ind	02-01-2022	Zeta/xyfsrf	 139   USD	2665 USD
+0382	   Bob Brown	FRA	06-16-2023	Alpha/ovdnso	 8554    USD	2944 USD
+0383	  Charlie Davis  	Brazil	2022/07/13	Iota/x58ieu	   5599   USD	554 USD
+0384	   Frank Thomas	United Kingdom	2022/03/10	Theta/4catvj	9632  USD	4732 USD
+0385	 Frank Thomas  	U.A.E	2022/12/30	Epsilon/wfu8yh	   3839   USD	1550 USD
+0386	  Charlie Davis 	Brazil	2022/11/23	Gamma/wm9j9c	   1015  USD	
+0387	 Bob Brown	United Kingdom	2022/12/19	Zeta/x8qydj	8969  USD	3041 USD
+0388	 Bob Brown   	BR	2022/11/01	Kappa/59w7tq	 537    USD	3071 USD
+0389	   Frank Thomas   	France	10-14-2022	Epsilon/hc6m98	   5969   USD	2585 USD
+0390	Jane Smith   	United Arab Emirates	05-19-2023	Eta/ijtsd2	4875   USD	2899 USD
+0391	 John Doe	Fra	03-27-2022	Eta/445hu1	6248   USD	1261 USD
+0392	 Frank Thomas	U.A.E	2022/07/10	Iota/zea49r	   4094    USD	663 USD
+0393	Charlie Davis 	United Kingdom	2022/11/12	Alpha/f6gxta	 7015   USD	1549 USD
+0394	   Jane Smith	IND	10-22-2022	Alpha/k0n7oq	  2320   USD	2786 USD
+0395	Frank Thomas	U.S.A	2023/09/26	Kappa/vaiciw	 7113   USD	189 USD
+0396	 Alice Johnson	BR	2022/09/15	Gamma/i6bpxi	1850   USD	4076 USD
+0397	  Bob Brown   	IND	2023/11/24	Alpha/02h5rm	3937 USD	4283 USD
+0398	 Charlie Davis 	UK	2022/02/10	Zeta/db6g8h	   8925 USD	4072 USD
+0399	Bob Brown 	Brazil	2022/03/01	Theta/vpca8f	 8016   USD	3874 USD
+0400	   Bob Brown	FR	2023/01/28	Zeta/8pev4u	   4231   USD	908 USD
+0401	   John Doe	UK	06-11-2023	Kappa/uqstxs	   6025   USD	
+0402	  Bob Brown  	U.K	11-14-2023	Kappa/83lh0n	  7970 USD	
+0403	Jane Smith   	IN	2023/11/11	Eta/wikr5q	  4423 USD	4653 USD
+0404	 Frank Thomas  	United States	01-22-2023	Alpha/e6cdkv	 331 USD	2415 USD
+0405	  Eve Wilson   	France	01-08-2023	Beta/domh4t	  4719  USD	3865 USD
+0406	 Eve Wilson	USA	2023/11/17	Alpha/hcw1mp	185    USD	3339 USD
+0407	Frank Thomas 	U.K	2022/06/30	Eta/t8rtqd	1974    USD	518 USD
+0408	   Frank Thomas 	FR	2023/08/04	Iota/tmefd4	 7449   USD	3598 USD
+0409	   Jane Smith	Ind	2023/11/07	Iota/nllio3	 3742    USD	2160 USD
+0410	 Jane Smith 	India	04-22-2022	Zeta/y82zba	   3726   USD	4213 USD
+0411	  Alice Johnson 	BRA	2022/09/06	Gamma/fucy8o	  1033 USD	1913 USD
+0412	Eve Wilson   	U.K	2023/01/20	Kappa/j4l0va	  5586    USD	
+0413	  Frank Thomas  	FRA	2023/11/05	Alpha/o3b592	7921    USD	1641 USD
+0414	Eve Wilson   	Ind	2022/06/02	Alpha/94c5te	  4929 USD	292 USD
+0415	 Charlie Davis 	United States	2023/04/11	Zeta/lzakz9	 8349    USD	2529 USD
+0416	 Jane Smith   	Bra	02-19-2022	Delta/u90ib2	9749   USD	1995 USD
+0417	   Jane Smith 	UAE	04-06-2022	Eta/we422a	  6384  USD	1460 USD
+0418	 Frank Thomas   	Brazil	2022/01/23	Zeta/9oz9qk	3824  USD	
+0419	   John Doe	IN	05-12-2022	Eta/ym7w1f	   2629 USD	
+0420	 Bob Brown	FR	2023/01/25	Kappa/0ni3kn	  528   USD	315 USD
+0421	  Eve Wilson  	US	2022/02/25	Gamma/8d2e00	   9763 USD	3376 USD
+0422	Eve Wilson 	U.K	2022/02/14	Iota/q66gfz	   2898   USD	3651 USD
+0423	 Bob Brown 	U.S.A	02-15-2022	Zeta/3fg04v	4361  USD	4871 USD
+0424	  Jane Smith 	Bra	2022/05/27	Alpha/jy5k0j	8261    USD	3470 USD
+0425	Frank Thomas  	AE	2022/07/04	Iota/hnws4i	4111   USD	1118 USD
+0426	   Jane Smith   	Brazil	01-18-2023	Alpha/2zrkaz	  7838 USD	4029 USD
+0427	 Alice Johnson 	Bra	09-06-2022	Eta/7ydy6r	1875 USD	4618 USD
+0428	  Eve Wilson  	UAE	01-13-2023	Zeta/fu7b3u	  5740    USD	3309 USD
+0429	 Jane Smith	BR	10-21-2023	Theta/la2ls9	   8178    USD	4918 USD
+0430	Alice Johnson   	IND	04-21-2023	Iota/d67e2t	6429    USD	1059 USD
+0431	   Eve Wilson   	IND	07-18-2022	Iota/nmcekg	   3312   USD	3155 USD
+0432	Charlie Davis   	FR	2023/03/23	Eta/8stsxl	 3680 USD	3615 USD
+0433	Jane Smith   	U.K	2022/12/28	Eta/4jr583	  6036  USD	4644 USD
+0434	   Eve Wilson 	FRA	2023/09/04	Theta/gbw8x9	   232 USD	
+0435	Frank Thomas 	United Kingdom	2023/11/06	Theta/ke97hn	 3073 USD	3345 USD
+0436	  Bob Brown 	France	2023/09/11	Beta/xz2pg2	6633 USD	
+0437	  John Doe	U.K	08-28-2022	Gamma/3sja0z	  7859    USD	2439 USD
+0438	Jane Smith	US	2022/03/03	Iota/3hev5q	1372  USD	
+0439	  Frank Thomas 	Bra	08-15-2022	Beta/1nqgt3	  4787  USD	
+0440	Frank Thomas  	India	04-20-2022	Gamma/d5qgtn	  5672   USD	4756 USD
+0441	 John Doe  	USA	04-16-2023	Epsilon/v8ueo3	7245   USD	3039 USD
+0442	  Bob Brown 	Bra	2023/09/04	Alpha/7wh0zo	6454   USD	
+0443	  John Doe	FR	10-04-2022	Epsilon/6ci8qs	1774   USD	1225 USD
+0444	Alice Johnson   	United States	2023/09/01	Beta/0sipmt	 3729    USD	4414 USD
+0445	 Bob Brown   	Bra	2023/01/31	Kappa/apbgp3	  6692   USD	1125 USD
+0446	  Eve Wilson   	USA	07-21-2023	Gamma/mpfimh	3021 USD	
+0447	 Jane Smith 	UAE	2022/05/30	Beta/iplozf	  3085 USD	3849 USD
+0448	  Charlie Davis	U.A.E	11-27-2022	Beta/62az0b	   2977   USD	3720 USD
+0449	   Alice Johnson 	Bra	2023/11/05	Epsilon/gn2cmp	 9726 USD	1171 USD
+0450	   John Doe	Brazil	2023/06/23	Iota/7ijzj0	6286   USD	1244 USD
+0451	Alice Johnson 	Brazil	10-28-2022	Gamma/jdutws	   7556  USD	4765 USD
+0452	   Frank Thomas 	FRA	05-02-2023	Beta/niweog	 4243  USD	3517 USD
+0453	  Bob Brown	UK	02-20-2023	Iota/f2gmmy	  4744    USD	4137 USD
+0454	Alice Johnson	France	2023/08/23	Theta/0q3g3k	   9320 USD	1051 USD
+0455	  John Doe   	Brazil	06-20-2022	Kappa/vdimab	   3767   USD	4017 USD
+0456	Eve Wilson   	UK	10-17-2022	Iota/vjdpgm	  982 USD	4080 USD
+0457	 Frank Thomas 	U.K	2023/04/10	Kappa/dgc90q	   4226    USD	983 USD
+0458	   Bob Brown   	United Kingdom	2022/10/06	Epsilon/ltc4w4	 7639 USD	566 USD
+0459	  Jane Smith 	U.S.A	2023/11/13	Beta/2rezyw	   1344 USD	353 USD
+0460	 Charlie Davis	UAE	12-10-2022	Beta/ze9492	4624  USD	74 USD
+0461	   Bob Brown  	UK	2023/11/15	Gamma/izzxby	   3790   USD	
+0462	Eve Wilson   	US	12-03-2022	Beta/2khzi1	  7700    USD	4343 USD
+0463	  Charlie Davis 	AE	2023/07/15	Beta/9qxrcq	   827 USD	2374 USD
+0464	   Alice Johnson	Ind	2022/10/17	Delta/km355e	  6731 USD	4593 USD
+0465	  Charlie Davis   	IND	07-20-2023	Kappa/rx1f2h	   2505   USD	642 USD
+0466	Jane Smith   	India	03-31-2023	Delta/54ej32	 5681 USD	3327 USD
+0467	  Eve Wilson   	United States	2023/06/24	Zeta/3xvczb	   4275 USD	3189 USD
+0468	   Frank Thomas	IN	2022/11/18	Beta/p9kpzh	   4364    USD	4805 USD
+0469	  Bob Brown	India	2022/10/07	Kappa/rejp6u	3679    USD	4201 USD
+0470	 Frank Thomas   	Bra	2022/06/24	Gamma/z5x3e2	   2842    USD	3306 USD
+0471	 Alice Johnson  	United States	2022/01/19	Alpha/u1688b	 7652   USD	349 USD
+0472	   Alice Johnson   	FRA	03-17-2022	Alpha/mm3nqw	   8446  USD	3308 USD
+0473	  Eve Wilson  	India	2022/09/02	Alpha/rq6jia	5207  USD	1857 USD
+0474	Charlie Davis 	U.A.E	08-03-2022	Beta/xtan57	5477  USD	3027 USD
+0475	Bob Brown	UK	01-07-2023	Delta/1lkvu7	9677 USD	4411 USD
+0476	  Bob Brown   	USA	2023/05/18	Eta/oiih3t	2976   USD	4242 USD
+0477	   Charlie Davis	India	2023/11/23	Delta/3vqjt7	  7897    USD	3523 USD
+0478	 John Doe 	FR	10-31-2022	Theta/pnnenl	   4328 USD	3423 USD
+0479	   Eve Wilson  	U.S.A	2022/09/02	Delta/pj93ji	 4991 USD	
+0480	  Jane Smith   	Brazil	2023/12/25	Iota/2g27gi	  7006 USD	3547 USD
+0481	 Charlie Davis	United States	2022/08/13	Epsilon/7k2xnd	 3752 USD	
+0482	   John Doe   	Brazil	2022/08/30	Iota/yq6x5t	  5397   USD	2146 USD
+0483	   Frank Thomas	AE	08-17-2023	Iota/i1zgr3	  4990  USD	1674 USD
+0484	Eve Wilson	U.A.E	2023/06/27	Zeta/zswa6g	   8414  USD	2617 USD
+0485	   Bob Brown  	UAE	02-22-2023	Theta/7jtjoj	7471  USD	3166 USD
+0486	Alice Johnson  	IN	2022/10/16	Eta/b9op9b	  8953  USD	1105 USD
+0487	   Eve Wilson   	United Kingdom	08-06-2022	Theta/g2ud30	   4090    USD	222 USD
+0488	Alice Johnson	U.S.A	10-21-2023	Gamma/qubsun	 1217   USD	323 USD
+0489	  Bob Brown  	United Kingdom	07-09-2022	Beta/n9g179	  8815    USD	104 USD
+0490	  John Doe  	US	2022/07/16	Iota/glpmu2	5300 USD	330 USD
+0491	Alice Johnson  	FR	2022/09/16	Zeta/hibbsg	   8738  USD	891 USD
+0492	  Frank Thomas	FR	11-05-2023	Beta/thxzwf	  7548  USD	263 USD
+0493	   Charlie Davis  	Fra	2023/09/27	Gamma/m2fma1	7369 USD	
+0494	   Alice Johnson   	Bra	01-02-2023	Alpha/n9w08j	 7873  USD	3535 USD
+0495	   Eve Wilson	U.S.A	04-05-2023	Alpha/w49e56	5581   USD	3107 USD
+0496	   Frank Thomas 	Ind	01-07-2022	Delta/82ymk4	  7216   USD	4290 USD
+0497	  Bob Brown   	FR	2023/01/03	Gamma/0512hh	   6721   USD	372 USD
+0498	 Charlie Davis  	U.K	2022/05/07	Kappa/uama9l	 4057 USD	4920 USD
+0499	  John Doe   	BRA	06-09-2022	Delta/cra7s7	5808   USD	
+0500	Charlie Davis  	Bra	12-09-2023	Theta/53dlmu	7725   USD	1649 USD
+0501	 Eve Wilson	UAE	2022/04/25	Iota/opn6cs	 7994   USD	921 USD
+0502	  Frank Thomas	United Kingdom	2023/04/10	Eta/lxp6oz	   7206    USD	1468 USD
+0503	   Alice Johnson 	Brazil	03-12-2022	Gamma/0syzfs	5664  USD	778 USD
+0504	 Frank Thomas   	France	2022/06/16	Epsilon/d87ror	9604    USD	666 USD
+0505	  Eve Wilson	FR	2022/02/21	Beta/7bovtr	   5072  USD	4494 USD
+0506	Charlie Davis	France	06-21-2023	Gamma/2xdppy	   9334  USD	3897 USD
+0507	 Charlie Davis   	U.A.E	2023/12/14	Zeta/9zkq3h	  4444 USD	3926 USD
+0508	   Jane Smith	United States	09-23-2023	Gamma/iqzxdw	3238   USD	80 USD
+0509	  Charlie Davis   	U.S.A	07-26-2022	Theta/lh6eqa	  8705 USD	1760 USD
+0510	  Eve Wilson   	UAE	2022/09/03	Kappa/uu3s73	  3714 USD	1068 USD
+0511	Bob Brown  	BRA	2023/12/21	Beta/626zx5	  9121 USD	2988 USD
+0512	  John Doe	India	09-12-2023	Iota/k1ahli	 7278 USD	
+0513	 Charlie Davis 	India	2022/04/17	Alpha/trma5b	4116    USD	1006 USD
+0514	   Eve Wilson  	France	04-15-2022	Zeta/u64dbu	1946 USD	1174 USD
+0515	 Eve Wilson   	India	2022/09/03	Delta/qoiyt3	1041 USD	4051 USD
+0516	   Alice Johnson	UAE	2022/09/22	Zeta/425mf6	 8700 USD	1554 USD
+0517	  John Doe	AE	2022/04/25	Zeta/53wygl	6686    USD	1804 USD
+0518	  John Doe   	UK	2022/10/20	Gamma/fuej3m	 5476 USD	728 USD
+0519	   Bob Brown	BRA	12-07-2023	Gamma/tv0qn0	   3495 USD	1622 USD
+0520	 John Doe   	IN	07-04-2022	Zeta/3vcsjr	   1568  USD	1129 USD
+0521	Bob Brown	USA	08-25-2022	Epsilon/xcbg7f	 241   USD	2165 USD
+0522	   Frank Thomas   	U.K	02-27-2023	Zeta/ocddif	 5630   USD	379 USD
+0523	   Eve Wilson	US	2023/10/14	Zeta/llodwn	 9876 USD	1327 USD
+0524	 Alice Johnson	India	02-05-2022	Alpha/xrddbm	 6737  USD	3062 USD
+0525	 Bob Brown  	BR	09-07-2022	Delta/83bvzu	 2592  USD	1970 USD
+0526	   Bob Brown	US	03-11-2022	Theta/h1cbvs	 2547   USD	4191 USD
+0527	  Bob Brown   	Bra	01-11-2023	Zeta/hwueh7	  2010  USD	1789 USD
+0528	   Eve Wilson	UK	2022/08/31	Zeta/092rhl	9343    USD	4743 USD
+0529	   Alice Johnson  	BRA	2022/04/13	Gamma/h2pq69	3775    USD	3289 USD
+0530	   Alice Johnson   	AE	11-14-2023	Delta/rslxwh	  3404  USD	1004 USD
+0531	Eve Wilson   	Ind	2022/08/04	Beta/cq10fr	   6325    USD	2114 USD
+0532	 Frank Thomas	Brazil	2022/11/28	Epsilon/m83z7l	 4785  USD	2715 USD
+0533	   Charlie Davis  	BRA	02-21-2022	Delta/9mpxks	   2080 USD	
+0534	   Charlie Davis  	United States	01-06-2023	Delta/3hr996	 7207 USD	
+0535	  Eve Wilson	IN	05-26-2023	Beta/xu38n1	6592 USD	1192 USD
+0536	 Charlie Davis   	FRA	2023/01/09	Gamma/9c2qg2	  6438  USD	606 USD
+0537	 Eve Wilson   	BR	12-20-2022	Eta/l8o5sk	  1829    USD	1843 USD
+0538	 John Doe 	United States	02-09-2023	Epsilon/h8773s	 4284 USD	4060 USD
+0539	Alice Johnson   	IN	2022/12/31	Gamma/gicvqd	   2741   USD	698 USD
+0540	  Charlie Davis   	U.A.E	2022/10/08	Theta/yi2ps4	   7728  USD	4722 USD
+0541	  Eve Wilson  	United States	02-15-2022	Gamma/dftlfa	 5805 USD	4333 USD
+0542	 Frank Thomas   	USA	10-07-2023	Iota/wpugst	 486 USD	2887 USD
+0543	  Bob Brown	United Arab Emirates	2023/06/03	Zeta/nxtfxl	  177  USD	4277 USD
+0544	 Charlie Davis  	US	06-08-2023	Iota/qswlca	  5554    USD	4635 USD
+0545	 Bob Brown  	BR	2022/02/17	Alpha/mcv33k	 1736 USD	1936 USD
+0546	Frank Thomas  	United States	2022/12/22	Beta/nfh5xa	   1777 USD	4886 USD
+0547	  Jane Smith	Brazil	2022/10/22	Alpha/16jr9j	   7122 USD	1786 USD
+0548	 Eve Wilson   	Ind	09-17-2023	Alpha/3n3feo	8945 USD	3693 USD
+0549	 Bob Brown  	IND	2023/05/18	Zeta/v515a5	968 USD	1338 USD
+0550	Charlie Davis   	United States	12-02-2022	Gamma/boaapk	2186  USD	4413 USD
+0551	  Charlie Davis	AE	2023/04/20	Alpha/k6uwfs	9405    USD	4841 USD
+0552	  Alice Johnson   	Bra	12-18-2022	Alpha/iresgw	   3605  USD	3574 USD
+0553	 Alice Johnson   	Brazil	07-29-2023	Theta/92wglx	 1105 USD	799 USD
+0554	   John Doe	BR	05-15-2022	Zeta/wgkpaz	3351    USD	2581 USD
+0555	   Bob Brown   	AE	2022/09/07	Epsilon/36um69	1466    USD	
+0556	Jane Smith	UK	11-04-2022	Theta/ed4j46	1832  USD	3359 USD
+0557	   Alice Johnson 	FRA	03-31-2022	Epsilon/ta7rvw	   6568  USD	2697 USD
+0558	   Frank Thomas	France	2022/03/28	Iota/234n73	   4579   USD	4370 USD
+0559	 Frank Thomas   	US	2023/10/29	Zeta/8jy6h2	   9619  USD	140 USD
+0560	Jane Smith   	Ind	07-05-2022	Epsilon/kc1lcp	 925  USD	3388 USD
+0561	   Frank Thomas  	FR	08-18-2023	Epsilon/d5uubs	1908    USD	4753 USD
+0562	  Frank Thomas  	US	2022/08/08	Zeta/iloj9x	 643 USD	3481 USD
+0563	Alice Johnson   	BRA	2022/11/24	Beta/uezu6o	   3919   USD	2979 USD
+0564	Bob Brown 	IND	2022/11/23	Kappa/jbdpd0	   5812    USD	4744 USD
+0565	 John Doe 	U.K	2022/06/18	Epsilon/3jwzs8	  9632   USD	2091 USD
+0566	   John Doe 	France	12-25-2023	Alpha/7lza4a	 8265  USD	1980 USD
+0567	   Frank Thomas 	IND	10-07-2022	Alpha/is6p0t	 3485  USD	
+0568	 Jane Smith	BR	12-12-2023	Delta/xyhfx4	  6584    USD	3152 USD
+0569	 Frank Thomas	Fra	2023/06/21	Iota/1w15lr	8773  USD	
+0570	Bob Brown	United Arab Emirates	2023/05/09	Gamma/z6f3lk	  9372    USD	325 USD
+0571	 Bob Brown 	BRA	02-05-2022	Eta/93maph	 4566    USD	233 USD
+0572	  Eve Wilson	United States	2022/03/27	Delta/jjqray	 6021 USD	
+0573	Charlie Davis 	IN	2023/04/05	Iota/nxmd56	   2230    USD	294 USD
+0574	Eve Wilson 	United States	2023/12/29	Zeta/vvveuk	  495  USD	665 USD
+0575	  Jane Smith	UK	03-29-2023	Gamma/r2mcn1	  5341    USD	1662 USD
+0576	   Eve Wilson  	U.A.E	08-21-2023	Alpha/xm87z6	6807  USD	4137 USD
+0577	  Jane Smith  	U.A.E	12-05-2023	Alpha/49bb2q	1864   USD	4638 USD
+0578	  Bob Brown	USA	2023/08/05	Eta/6tcqny	  8165    USD	2906 USD
+0579	Frank Thomas   	United Kingdom	2022/08/04	Zeta/qw2x3v	 1868   USD	456 USD
+0580	 Alice Johnson 	FRA	02-21-2022	Eta/syt54i	  6853 USD	1290 USD
+0581	  Jane Smith  	BRA	2022/05/27	Gamma/ij7bsr	4994   USD	1959 USD
+0582	 Eve Wilson  	FRA	2023/07/17	Beta/617yvl	   7279 USD	1042 USD
+0583	 Frank Thomas 	U.A.E	2023/11/19	Theta/a7ho4t	  3262    USD	2979 USD
+0584	  Charlie Davis 	Fra	09-29-2022	Alpha/a8uqua	   2317   USD	2138 USD
+0585	Eve Wilson	United Arab Emirates	05-05-2023	Alpha/5j9nrg	536  USD	
+0586	 Bob Brown   	Ind	2023/12/09	Theta/ndyndl	  7244  USD	1188 USD
+0587	Bob Brown  	BRA	2022/12/29	Iota/60w4cg	  1118 USD	4703 USD
+0588	 Alice Johnson 	United Kingdom	2023/04/24	Beta/pef95a	  5613   USD	3283 USD
+0589	  Frank Thomas	France	09-29-2023	Beta/g911yd	 6050    USD	1789 USD
+0590	  John Doe	France	02-11-2022	Epsilon/4ikfh3	   4471    USD	3719 USD
+0591	 Jane Smith 	USA	11-22-2023	Zeta/0riorn	428  USD	2594 USD
+0592	   Frank Thomas   	FRA	2022/05/13	Delta/4v19wb	  1349   USD	3353 USD
+0593	Bob Brown  	United Kingdom	2022/07/21	Kappa/g2emtw	   8891 USD	
+0594	 John Doe  	Bra	2022/05/10	Theta/a8206g	3124  USD	3640 USD
+0595	   John Doe	Bra	11-22-2022	Delta/ltdwpp	4323  USD	313 USD
+0596	   Alice Johnson  	USA	06-09-2023	Alpha/2upm4k	  3892 USD	2327 USD
+0597	  Alice Johnson 	US	2023/11/21	Gamma/ci6u9o	1808 USD	3827 USD
+0598	  Bob Brown	BR	08-11-2022	Epsilon/164aap	   7236    USD	872 USD
+0599	 Jane Smith	United Kingdom	01-09-2023	Epsilon/tww1hl	6666  USD	169 USD
+0600	  Alice Johnson   	India	10-19-2023	Eta/6g06tc	  9467 USD	4187 USD
+0601	  John Doe  	BR	2023/03/07	Kappa/gnwr7o	 8757  USD	852 USD
+0602	Alice Johnson  	BR	02-27-2023	Alpha/tf8nbu	  4355   USD	4746 USD
+0603	  Frank Thomas 	India	06-13-2022	Zeta/n0cur5	 3967    USD	2031 USD
+0604	Alice Johnson   	U.K	06-18-2023	Epsilon/6ybf6c	  5586 USD	4212 USD
+0605	 Jane Smith	Brazil	2022/08/15	Eta/ehk8d7	 6531  USD	3736 USD
+0606	 Frank Thomas  	BRA	06-07-2023	Delta/k7g98y	5433  USD	4182 USD
+0607	   Alice Johnson   	UAE	2022/06/24	Gamma/riarss	9140   USD	
+0608	   John Doe 	FRA	2022/04/11	Gamma/op9fje	  1981 USD	1122 USD
+0609	  John Doe   	Bra	2023/03/02	Alpha/snilt9	9635 USD	1534 USD
+0610	  Eve Wilson  	BR	02-28-2022	Gamma/rhzqqx	6959 USD	4371 USD
+0611	Jane Smith   	FR	05-18-2022	Delta/8aigum	 3672 USD	3192 USD
+0612	 John Doe   	France	2022/01/28	Eta/7rpkvu	 7196    USD	2251 USD
+0613	Bob Brown   	U.S.A	2023/09/30	Epsilon/kskgck	   3288  USD	3306 USD
+0614	   John Doe   	FR	02-02-2022	Delta/wzwtdx	147 USD	2527 USD
+0615	   Bob Brown 	IND	2022/04/06	Kappa/eutcm3	  325 USD	138 USD
+0616	Bob Brown   	UK	05-02-2022	Eta/h4gvcn	   8573  USD	527 USD
+0617	  Frank Thomas   	Brazil	07-22-2023	Delta/p38kp2	 2168    USD	1601 USD
+0618	   Alice Johnson   	Fra	06-04-2023	Beta/uq9xf8	  5176 USD	600 USD
+0619	Jane Smith	UK	2022/06/26	Iota/jtjhgt	 7465 USD	
+0620	  Frank Thomas  	U.A.E	09-04-2023	Eta/54a7n9	302   USD	4835 USD
+0621	John Doe  	United Arab Emirates	2023/03/16	Alpha/gd48mn	   9865    USD	2184 USD
+0622	  Bob Brown 	United Kingdom	2023/10/02	Gamma/h8t4ot	 163 USD	
+0623	   Alice Johnson  	USA	2023/08/12	Eta/5hhbzl	 8015 USD	
+0624	John Doe 	Ind	01-18-2022	Gamma/cz9iqy	8336 USD	4445 USD
+0625	 Alice Johnson	U.S.A	10-04-2023	Delta/imt718	   4003  USD	
+0626	  Frank Thomas   	USA	02-20-2022	Kappa/kvyzwu	 1232   USD	4469 USD
+0627	   Eve Wilson  	AE	03-16-2022	Delta/7zgxdw	   987   USD	4228 USD
+0628	  Alice Johnson	AE	2023/10/30	Epsilon/zw68r0	  5373 USD	3253 USD
+0629	Jane Smith   	United States	01-06-2023	Iota/34ppdf	  8225  USD	
+0630	 John Doe 	BR	2022/11/03	Theta/hg5g45	  2370 USD	4076 USD
+0631	  Charlie Davis   	USA	2023/03/29	Iota/67vsyb	2306 USD	2247 USD
+0632	Eve Wilson   	Ind	2023/07/01	Epsilon/a7b26i	  8930   USD	4134 USD
+0633	   John Doe  	Brazil	2023/05/10	Eta/swd4fx	 7810   USD	3719 USD
+0634	   Alice Johnson  	IN	12-15-2022	Epsilon/ou1skw	6814 USD	1351 USD
+0635	 Jane Smith	USA	07-07-2023	Kappa/fqf2j2	 9526    USD	2452 USD
+0636	 Jane Smith   	US	2023/03/26	Theta/55u0r8	   6885    USD	3716 USD
+0637	  Jane Smith  	U.K	04-18-2023	Alpha/fw1v8p	  9907  USD	3458 USD
+0638	   Jane Smith	Fra	03-25-2022	Alpha/6e2tvw	   2986    USD	325 USD
+0639	  Eve Wilson   	UK	09-30-2023	Delta/7ozg9n	 5476    USD	248 USD
+0640	Bob Brown 	FRA	2023/05/30	Kappa/v8wgrv	  6933 USD	3791 USD
+0641	   John Doe  	BR	05-05-2022	Delta/cequqh	  8720 USD	1581 USD
+0642	Jane Smith   	Ind	03-27-2022	Beta/1f4zvo	821   USD	4874 USD
+0643	   Charlie Davis  	France	2023/09/16	Epsilon/0kvgmu	5785 USD	961 USD
+0644	  Alice Johnson	AE	2023/02/24	Theta/ug4vrj	3013    USD	632 USD
+0645	   Eve Wilson  	Bra	03-31-2022	Gamma/7tvqwo	 9578  USD	2001 USD
+0646	  Alice Johnson  	Fra	01-29-2023	Iota/q6wwl4	  669    USD	
+0647	   Bob Brown	AE	2022/12/23	Eta/5cq2kp	  5243   USD	
+0648	  Frank Thomas	UAE	2023/06/01	Theta/puu8j3	 7650 USD	1282 USD
+0649	Bob Brown 	USA	2023/06/06	Kappa/ktv9pb	8169    USD	4292 USD
+0650	   Alice Johnson	U.K	09-15-2022	Kappa/yn0xlc	   1367   USD	1319 USD
+0651	   Eve Wilson 	UAE	02-04-2023	Kappa/iif99s	 7577 USD	2624 USD
+0652	Alice Johnson   	AE	2023/04/21	Zeta/rgj83i	 6091   USD	2106 USD
+0653	John Doe 	Bra	08-08-2022	Delta/s8ivtz	 9713    USD	3842 USD
+0654	  Jane Smith 	United Kingdom	2023/11/21	Iota/qa5yfx	 7580 USD	513 USD
+0655	Charlie Davis 	US	2023/11/09	Zeta/v1m2s3	  5292    USD	3267 USD
+0656	  Charlie Davis 	United States	11-27-2023	Kappa/q5goii	   8205    USD	413 USD
+0657	  Alice Johnson 	IND	11-28-2022	Epsilon/huju51	 9497  USD	1760 USD
+0658	 Eve Wilson   	UK	2023/04/13	Iota/2tnfvr	   5416    USD	2937 USD
+0659	  Jane Smith 	United Kingdom	2022/09/07	Gamma/j6rod1	 5490   USD	735 USD
+0660	Jane Smith	UK	07-16-2022	Alpha/lu2p0s	  5468  USD	2758 USD
+0661	 Eve Wilson   	United Kingdom	01-24-2022	Iota/luf27n	7995  USD	2341 USD
+0662	Alice Johnson   	Ind	2022/05/04	Eta/w4pquw	   3678  USD	2926 USD
+0663	  Charlie Davis   	France	07-13-2022	Delta/sx9xb0	   6311  USD	4194 USD
+0664	  Jane Smith	FR	2023/01/19	Alpha/9jjwy1	   538    USD	2614 USD
+0665	  Bob Brown   	USA	2023/02/09	Beta/ry3s1i	4589    USD	4790 USD
+0666	 Jane Smith  	FRA	2023/04/21	Zeta/axc4nn	1166   USD	
+0667	 John Doe   	United Kingdom	2023/05/04	Zeta/yrpgmf	   9151    USD	3467 USD
+0668	 Eve Wilson   	UAE	05-02-2023	Epsilon/26r435	  6601    USD	1517 USD
+0669	 John Doe   	Bra	06-02-2023	Delta/3ep5ht	 8282  USD	1428 USD
+0670	   Jane Smith 	U.K	07-22-2022	Zeta/hboxby	669    USD	3850 USD
+0671	John Doe  	U.S.A	2023/09/27	Theta/87535z	 5457    USD	4842 USD
+0672	   John Doe   	United States	2022/10/05	Alpha/pe9160	  3275 USD	3611 USD
+0673	   Alice Johnson   	UAE	2023/02/24	Alpha/3k9ug8	   1926   USD	4675 USD
+0674	   Frank Thomas 	BRA	11-24-2023	Zeta/ye3412	7896    USD	1664 USD
+0675	  Alice Johnson	IN	02-07-2023	Delta/i94zlu	6174    USD	2019 USD
+0676	 Jane Smith  	France	2023/08/15	Gamma/9nv8y2	1856   USD	1072 USD
+0677	 Jane Smith   	U.A.E	2022/02/18	Theta/2w2bbq	9503  USD	2751 USD
+0678	Alice Johnson	France	08-07-2022	Gamma/q9b7l4	2054   USD	
+0679	 Alice Johnson   	U.S.A	2023/01/04	Alpha/8le8z4	 9666   USD	
+0680	 Frank Thomas	FR	02-03-2022	Beta/vs1pw6	4810 USD	4073 USD
+0681	   Bob Brown 	USA	2022/04/05	Zeta/v2n4g0	 168    USD	1929 USD
+0682	Frank Thomas 	FR	2022/01/05	Beta/cc55n9	  5549    USD	4575 USD
+0683	   John Doe	UAE	05-05-2023	Theta/g1zpm9	 7046   USD	3836 USD
+0684	 Alice Johnson   	Brazil	2022/05/25	Gamma/oo2h57	 969 USD	2979 USD
+0685	   Alice Johnson	Bra	2023/10/17	Theta/8oweuo	  914  USD	2051 USD
+0686	   Bob Brown   	FR	10-30-2023	Epsilon/pg3u4d	  5306   USD	795 USD
+0687	   Bob Brown  	U.K	2023/10/03	Kappa/0rcxqr	  7069    USD	4754 USD
+0688	 Jane Smith	BRA	09-24-2022	Epsilon/9zhxaq	 4366  USD	2965 USD
+0689	Alice Johnson 	U.K	08-09-2023	Eta/hv62ln	2892  USD	4303 USD
+0690	 Jane Smith   	United Kingdom	2022/11/27	Iota/fxn1a0	 1112  USD	1644 USD
+0691	 Frank Thomas  	IN	2022/07/22	Iota/dbp7f0	  2566   USD	4563 USD
+0692	  Frank Thomas  	Brazil	09-26-2023	Kappa/50p85o	4408 USD	852 USD
+0693	Frank Thomas   	US	09-28-2022	Gamma/6tpnd9	3852   USD	4513 USD
+0694	Frank Thomas	UK	10-20-2023	Zeta/6qycgh	  2466   USD	3955 USD
+0695	Eve Wilson 	BRA	12-24-2022	Epsilon/rmids8	   6361 USD	4465 USD
+0696	   Charlie Davis 	United States	06-11-2022	Kappa/40vka1	  2992   USD	
+0697	Charlie Davis  	UAE	02-15-2023	Theta/w79hgm	   5228 USD	
+0698	  Jane Smith  	UAE	2023/04/16	Theta/g8oix0	   7770 USD	1733 USD
+0699	   John Doe 	US	03-17-2022	Delta/svt6cr	 2957    USD	939 USD
+0700	 Alice Johnson   	FRA	02-10-2023	Eta/avwcal	  9458    USD	731 USD
+0701	   Frank Thomas  	BRA	12-23-2022	Iota/axwqai	   6628  USD	3695 USD
+0702	   Eve Wilson  	AE	2023/09/30	Epsilon/de5nuz	 2124    USD	4322 USD
+0703	   Jane Smith  	BR	12-04-2022	Zeta/ggn1g0	 9854    USD	3280 USD
+0704	Bob Brown  	BRA	2023/07/08	Iota/wrx9t2	6423    USD	
+0705	Jane Smith	United Arab Emirates	12-23-2022	Zeta/fa3yef	  6705  USD	1075 USD
+0706	 Charlie Davis 	U.K	10-06-2022	Zeta/brke4k	  4816 USD	666 USD
+0707	  Eve Wilson	AE	2022/05/27	Theta/iwfny4	  9600    USD	195 USD
+0708	  Jane Smith  	FRA	10-20-2023	Kappa/g3qyv0	  4334    USD	3464 USD
+0709	   Eve Wilson	U.A.E	11-18-2022	Theta/ctwlo2	   8469 USD	1073 USD
+0710	   Charlie Davis 	France	02-13-2022	Eta/o3u1nl	   2191   USD	2223 USD
+0711	   Charlie Davis   	Brazil	01-19-2023	Theta/mglqmk	8124   USD	1304 USD
+0712	  Bob Brown   	Brazil	2022/06/07	Kappa/9m0gzq	   2618 USD	2787 USD
+0713	Jane Smith   	India	2023/10/02	Iota/me9g3r	  2762   USD	393 USD
+0714	Frank Thomas  	Brazil	2022/12/07	Gamma/srfgg0	  453    USD	
+0715	  Frank Thomas   	AE	08-12-2022	Kappa/0lgvbr	 5579   USD	
+0716	Frank Thomas  	U.S.A	12-16-2022	Alpha/i4i1zp	   1006 USD	3852 USD
+0717	   Alice Johnson   	FRA	2022/07/01	Iota/4lf880	1922   USD	4536 USD
+0718	Eve Wilson  	United Kingdom	2023/09/30	Gamma/3fk5ys	5388  USD	3275 USD
+0719	Charlie Davis  	United Kingdom	04-06-2023	Zeta/oyg37s	 3091 USD	635 USD
+0720	 Eve Wilson   	UK	06-29-2023	Beta/epkq0p	  7325   USD	
+0721	  Bob Brown   	Brazil	05-18-2022	Epsilon/fbmgfl	  683    USD	193 USD
+0722	   Jane Smith   	India	2022/03/23	Iota/j751o6	 9647    USD	727 USD
+0723	 Eve Wilson   	BRA	2022/11/22	Gamma/bbwmgu	8155 USD	3408 USD
+0724	 Eve Wilson	India	01-31-2022	Gamma/3261x1	9556  USD	2043 USD
+0725	   Frank Thomas  	IN	2022/08/08	Iota/abkwii	   3960  USD	2889 USD
+0726	 Alice Johnson 	US	2023/05/11	Zeta/spo55j	2999    USD	3039 USD
+0727	 Frank Thomas	Ind	11-11-2023	Epsilon/h5ynq6	   9655    USD	4427 USD
+0728	 Bob Brown	United Arab Emirates	10-19-2023	Beta/ly6dud	2375 USD	4840 USD
+0729	 Jane Smith 	Brazil	2023/03/26	Theta/niwu9w	 727   USD	3192 USD
+0730	   Eve Wilson 	IN	07-10-2022	Eta/p59b3u	  9225 USD	1687 USD
+0731	   Charlie Davis	Bra	2023/10/05	Epsilon/dco8qw	   4489   USD	2057 USD
+0732	Eve Wilson   	U.A.E	04-18-2023	Gamma/p3hr0h	 3795 USD	3384 USD
+0733	 Bob Brown	IND	08-28-2023	Iota/038q02	1313   USD	3493 USD
+0734	 Charlie Davis  	United Kingdom	03-29-2023	Theta/1nbvuj	1646   USD	1533 USD
+0735	  John Doe  	United Kingdom	2023/08/21	Delta/5zm5qv	4274  USD	909 USD
+0736	Eve Wilson 	Brazil	2023/08/11	Zeta/dy3jri	 7661  USD	4949 USD
+0737	Alice Johnson   	USA	02-23-2022	Theta/r2hz5q	  369 USD	1793 USD
+0738	  Charlie Davis	FR	2022/03/01	Iota/u6enjl	 5466   USD	
+0739	Jane Smith   	US	2023/01/29	Theta/ylivef	  2340   USD	2945 USD
+0740	 Eve Wilson  	BR	07-27-2023	Beta/arajg8	 5821 USD	477 USD
+0741	   Jane Smith	IN	2023/05/14	Delta/oesmn8	  2893  USD	2038 USD
+0742	Charlie Davis	IN	04-16-2022	Epsilon/jmimui	 2489    USD	4532 USD
+0743	 Bob Brown   	Bra	01-15-2022	Epsilon/6umfk1	   701  USD	3648 USD
+0744	   Eve Wilson	BR	06-04-2022	Beta/i41d9s	8199  USD	4460 USD
+0745	Bob Brown	IND	2023/11/22	Epsilon/8g7z8t	6052  USD	387 USD
+0746	 Frank Thomas	FRA	2022/02/10	Eta/6owyif	   4159  USD	4409 USD
+0747	Frank Thomas	U.A.E	2022/03/28	Theta/uh4hhx	 736   USD	560 USD
+0748	Charlie Davis	U.A.E	08-28-2023	Iota/3by4wr	 8183 USD	200 USD
+0749	 Jane Smith  	UK	2022/09/22	Epsilon/acl8kk	   8850 USD	
+0750	  Alice Johnson 	BRA	08-05-2023	Epsilon/7k77xw	 5241 USD	4905 USD
+0751	Jane Smith   	IN	2023/01/14	Delta/p6jyso	   6523   USD	
+0752	 John Doe  	Fra	02-23-2022	Delta/kbl3lq	   3334 USD	1687 USD
+0753	  Frank Thomas 	FR	07-19-2022	Beta/t5a913	3215 USD	
+0754	  Frank Thomas	United Arab Emirates	2023/06/04	Gamma/7a4bub	9987 USD	4820 USD
+0755	   Frank Thomas   	India	04-29-2022	Beta/8jys9a	 8504  USD	3619 USD
+0756	 Charlie Davis  	FR	04-20-2022	Iota/r6xy6j	   7677   USD	
+0757	Alice Johnson  	France	2022/04/20	Iota/hqnpua	  7048 USD	
+0758	  Alice Johnson  	Bra	12-12-2022	Zeta/z1ytrp	   7848  USD	2764 USD
+0759	Jane Smith 	U.A.E	2022/11/06	Kappa/nwh2lo	  5855 USD	4472 USD
+0760	John Doe 	UK	2022/09/24	Iota/6dp4w0	 6380    USD	779 USD
+0761	  Frank Thomas 	FR	06-14-2023	Epsilon/sqxyc4	   9606 USD	4775 USD
+0762	 Alice Johnson  	IN	2022/04/27	Alpha/4gznt2	  2743   USD	1100 USD
+0763	  Eve Wilson	United States	2023/03/26	Alpha/gcfw9i	3609   USD	
+0764	  Jane Smith   	United Arab Emirates	01-06-2022	Theta/4tuc3i	  8576 USD	1211 USD
+0765	  Eve Wilson	Ind	2022/04/28	Epsilon/w2at66	4134  USD	2379 USD
+0766	Eve Wilson   	United States	03-15-2022	Theta/jvczdb	   9026 USD	3564 USD
+0767	 Charlie Davis	France	04-05-2023	Alpha/lhl82k	   3810  USD	3789 USD
+0768	  Charlie Davis  	U.A.E	11-29-2022	Gamma/xjtt4k	1545 USD	3920 USD
+0769	   Jane Smith   	FR	2022/08/14	Kappa/01hyr0	  5317   USD	4806 USD
+0770	   Bob Brown  	IND	07-08-2023	Gamma/nazeem	 9545 USD	3893 USD
+0771	 John Doe 	United Kingdom	2023/02/28	Kappa/k1vvf1	 3775   USD	2329 USD
+0772	  John Doe	United Arab Emirates	04-27-2023	Delta/tmznae	   6929    USD	1335 USD
+0773	Charlie Davis 	United Kingdom	10-21-2023	Kappa/xgafi5	 3747   USD	525 USD
+0774	   Eve Wilson 	US	12-11-2022	Beta/182dwx	  4704    USD	3692 USD
+0775	  Jane Smith  	France	2023/04/24	Kappa/fba4d1	1072 USD	588 USD
+0776	John Doe   	UAE	07-29-2022	Zeta/l5bxae	  1199   USD	1611 USD
+0777	Eve Wilson	BR	01-24-2022	Beta/0zv6ds	   7679   USD	1881 USD
+0778	Eve Wilson 	Fra	2022/09/12	Kappa/zam8i7	   3547 USD	1146 USD
+0779	   Alice Johnson   	IN	2023/06/30	Zeta/q3ne9l	  5595  USD	4855 USD
+0780	  Charlie Davis   	France	07-08-2023	Epsilon/t9nikf	5274    USD	2903 USD
+0781	   Charlie Davis	IND	10-14-2023	Delta/34shmd	  6334    USD	751 USD
+0782	 Alice Johnson  	U.A.E	2022/03/06	Kappa/bndpi7	3490 USD	3334 USD
+0783	 Eve Wilson	FRA	2022/05/17	Theta/le3a2w	 3010  USD	4125 USD
+0784	  Frank Thomas	U.K	03-13-2023	Zeta/sb11fd	 4589   USD	1156 USD
+0785	   Jane Smith  	IND	11-22-2023	Gamma/wi8twr	 912    USD	4314 USD
+0786	Eve Wilson  	United Arab Emirates	2022/01/27	Kappa/bcunv8	 6564  USD	1944 USD
+0787	 Eve Wilson	France	2022/01/14	Delta/t8zf3u	  8614 USD	4757 USD
+0788	Eve Wilson	FR	05-30-2023	Epsilon/iailze	7142 USD	
+0789	   Eve Wilson  	FR	12-30-2022	Theta/wbjkj9	  2335  USD	2163 USD
+0790	 Alice Johnson   	U.S.A	08-20-2023	Eta/ic106a	   5403   USD	2209 USD
+0791	  Frank Thomas  	Bra	04-30-2022	Alpha/ykan1k	 1493   USD	3506 USD
+0792	  Alice Johnson   	AE	02-16-2023	Kappa/4zyli0	   3883   USD	3809 USD
+0793	 Eve Wilson  	IND	12-07-2022	Iota/k5uluo	 3765    USD	883 USD
+0794	 Bob Brown 	U.K	2023/08/19	Gamma/ky4qjf	  7514 USD	1594 USD
+0795	   Charlie Davis   	United States	11-12-2023	Kappa/wygnsd	   4049  USD	
+0796	   Eve Wilson	BR	2023/03/23	Zeta/15xkjq	  4502   USD	1053 USD
+0797	  Frank Thomas  	India	2022/02/05	Kappa/5aa0jr	 3247    USD	2365 USD
+0798	   John Doe  	United Arab Emirates	2023/10/18	Delta/1q393m	  6504    USD	837 USD
+0799	 Eve Wilson 	U.S.A	04-21-2022	Delta/4v3dny	 6158    USD	4871 USD
+0800	   Jane Smith	France	2023/03/05	Zeta/zu878j	2218   USD	2547 USD
+0801	 Jane Smith 	U.K	2022/09/16	Eta/cf3y2l	   7060    USD	2678 USD
+0802	  Charlie Davis  	US	01-10-2022	Kappa/qiqy9r	  8180 USD	77 USD
+0803	  Alice Johnson   	FRA	2022/09/17	Epsilon/7rnl2m	 794  USD	589 USD
+0804	 Alice Johnson	U.A.E	2023/03/11	Eta/0b4a3i	   2181    USD	568 USD
+0805	   Eve Wilson   	U.S.A	07-08-2023	Alpha/fzc1hw	975   USD	1820 USD
+0806	 Bob Brown	U.A.E	11-10-2023	Zeta/arud5i	  9552   USD	2792 USD
+0807	John Doe  	United Kingdom	08-21-2022	Alpha/m80cce	   6561    USD	340 USD
+0808	  John Doe	BR	2023/09/21	Alpha/vmcnoh	193 USD	2831 USD
+0809	   Charlie Davis   	UK	2023/04/29	Epsilon/zwdp66	   6412    USD	
+0810	 Eve Wilson	UAE	2023/09/19	Alpha/kvqp7i	  6430  USD	195 USD
+0811	  Charlie Davis	U.K	2022/02/05	Gamma/qkbu6u	 917   USD	2678 USD
+0812	  Bob Brown  	United Arab Emirates	05-17-2023	Beta/dgphxe	   6765 USD	4617 USD
+0813	 John Doe  	Bra	2022/07/29	Beta/p20yeh	   2273    USD	678 USD
+0814	  Alice Johnson 	United States	2023/12/12	Beta/5i9u93	  5445  USD	1144 USD
+0815	   Bob Brown   	India	01-23-2022	Delta/uea8fv	924   USD	841 USD
+0816	   Jane Smith  	Brazil	09-28-2023	Gamma/5p5b28	  6217  USD	3522 USD
+0817	 Bob Brown	United States	01-08-2023	Zeta/vsvz4e	  1826 USD	3050 USD
+0818	 Charlie Davis  	U.S.A	11-05-2022	Theta/a1dz9l	 6007    USD	766 USD
+0819	 Jane Smith	Fra	2022/03/25	Theta/vsy77i	  5798   USD	165 USD
+0820	 Bob Brown  	Fra	04-25-2022	Delta/dxzxn2	  3324  USD	
+0821	  Eve Wilson	Brazil	2022/10/11	Theta/iumock	 6381   USD	4115 USD
+0822	   Eve Wilson	AE	03-06-2022	Zeta/rrukk6	3338 USD	3092 USD
+0823	   Alice Johnson  	FRA	2023/03/03	Gamma/yz7559	   9728    USD	3994 USD
+0824	   Alice Johnson	FR	08-28-2023	Gamma/gjvcgx	8617  USD	987 USD
+0825	   Eve Wilson  	USA	2023/07/04	Alpha/boqegh	  8904  USD	1811 USD
+0826	Alice Johnson   	U.K	2022/02/07	Iota/px02je	5131    USD	3645 USD
+0827	 Bob Brown   	AE	2023/12/14	Theta/7ykaii	  4620   USD	101 USD
+0828	Bob Brown 	UAE	2023/12/02	Kappa/rkl3vy	3593  USD	505 USD
+0829	  Bob Brown  	UK	12-04-2022	Epsilon/9wqpez	 3010 USD	2952 USD
+0830	 Bob Brown 	U.K	09-19-2023	Theta/iwu8gr	9671 USD	829 USD
+0831	Alice Johnson   	United States	06-05-2022	Epsilon/iyx447	  5172 USD	3092 USD
+0832	  Alice Johnson 	BRA	08-06-2022	Gamma/w62nkk	 1511  USD	4628 USD
+0833	  Frank Thomas	BRA	2022/02/09	Theta/rmwumo	8823   USD	2261 USD
+0834	Charlie Davis	France	04-11-2022	Alpha/dfyjcc	 3935 USD	1160 USD
+0835	  Alice Johnson  	Ind	2023/03/18	Delta/v0bjpv	4379  USD	867 USD
+0836	Alice Johnson   	United Arab Emirates	10-09-2023	Zeta/76sbwa	 7574   USD	2593 USD
+0837	 Frank Thomas	AE	04-13-2022	Zeta/rhh6nt	2986 USD	520 USD
+0838	Alice Johnson	FRA	08-20-2022	Gamma/ygg3z3	  6619  USD	3476 USD
+0839	Jane Smith 	IN	08-08-2023	Theta/zw5kkl	   739    USD	
+0840	   Charlie Davis	USA	01-28-2022	Kappa/zgu40r	3326  USD	2926 USD
+0841	  Frank Thomas 	BRA	04-09-2022	Theta/1uuivc	   5420  USD	3836 USD
+0842	Alice Johnson  	United Kingdom	2022/07/21	Beta/03r4q8	  9656   USD	1842 USD
+0843	 Jane Smith   	Fra	07-25-2023	Delta/blt59h	   4566 USD	4996 USD
+0844	  Jane Smith	Bra	2022/06/05	Epsilon/kx7w0d	7150    USD	2821 USD
+0845	  Jane Smith  	Fra	2023/03/15	Beta/8fvbg2	3455 USD	85 USD
+0846	   John Doe	Fra	2023/04/01	Gamma/vlepsc	 4920  USD	2384 USD
+0847	  Charlie Davis 	BRA	04-16-2023	Iota/z3u76p	   2818    USD	3648 USD
+0848	Jane Smith	US	04-06-2022	Kappa/rl020f	 2566  USD	3109 USD
+0849	 Charlie Davis  	Brazil	2022/05/18	Eta/u8bl5p	  3277  USD	2975 USD
+0850	  John Doe 	FRA	04-11-2023	Delta/45hh5j	 4791    USD	365 USD
+0851	Alice Johnson  	United Kingdom	2023/06/25	Beta/fcrtbi	   8441   USD	
+0852	  John Doe   	United Arab Emirates	2023/10/23	Iota/lr9sii	  2621   USD	3959 USD
+0853	 Charlie Davis 	Fra	05-14-2023	Theta/01aiiw	 7479 USD	4536 USD
+0854	Alice Johnson 	Bra	07-10-2022	Theta/50r0zu	7323 USD	1399 USD
+0855	Charlie Davis	United Kingdom	2022/07/27	Eta/36ci7b	  6795   USD	1415 USD
+0856	   John Doe	U.A.E	02-12-2022	Eta/syh1s1	399 USD	3337 USD
+0857	 Bob Brown	AE	2022/07/04	Eta/k9y0kk	  2188 USD	890 USD
+0858	   Bob Brown	United States	2022/10/13	Iota/vmobiy	5308  USD	149 USD
+0859	Alice Johnson  	US	05-28-2023	Alpha/ji1she	  8622  USD	1715 USD
+0860	Charlie Davis   	USA	10-15-2023	Eta/ryns3d	  2202    USD	2761 USD
+0861	Bob Brown   	FRA	10-25-2023	Alpha/h7ksom	   3942 USD	4202 USD
+0862	   John Doe   	FRA	2023/01/04	Alpha/yb3nco	  5584    USD	
+0863	John Doe   	FR	2023/10/23	Kappa/0adt2h	 911  USD	4240 USD
+0864	Alice Johnson   	IN	05-05-2022	Eta/u8vh33	  4963   USD	4229 USD
+0865	Bob Brown  	United Kingdom	02-23-2022	Theta/4subtd	5408  USD	1130 USD
+0866	 Alice Johnson	United States	2023/06/11	Eta/c92j4y	   6136   USD	
+0867	Eve Wilson	USA	01-21-2023	Iota/x9g9cd	3797    USD	173 USD
+0868	 Bob Brown   	BRA	01-01-2023	Kappa/rymux8	   7562   USD	575 USD
+0869	John Doe  	United Kingdom	12-03-2022	Theta/nmbxrx	 4094   USD	4032 USD
+0870	Charlie Davis  	US	06-11-2023	Theta/5m9s5z	  7090    USD	3720 USD
+0871	 Frank Thomas 	United Kingdom	08-20-2022	Kappa/4s1bzt	896  USD	511 USD
+0872	 Frank Thomas 	U.A.E	09-04-2023	Kappa/3yxeu1	   7889    USD	
+0873	   John Doe	IN	06-15-2022	Zeta/a9t53w	  9370  USD	
+0874	  Jane Smith 	IN	03-11-2023	Iota/7xo8c2	  999  USD	4192 USD
+0875	Alice Johnson   	IN	2023/12/24	Zeta/s5w2h9	9148   USD	2602 USD
+0876	 Alice Johnson  	Bra	05-18-2023	Eta/4r0235	   1871    USD	4710 USD
+0877	 Charlie Davis 	BRA	11-05-2023	Epsilon/gl455u	 9681    USD	1902 USD
+0878	   Bob Brown	Bra	2023/02/21	Theta/7ocw33	   2905 USD	
+0879	  Charlie Davis	Brazil	2022/12/23	Delta/8jisnv	  2015  USD	923 USD
+0880	Bob Brown   	India	03-05-2023	Alpha/fyve2v	 6943  USD	1057 USD
+0881	   Jane Smith	U.K	05-14-2023	Epsilon/lmym7l	  5587   USD	2924 USD
+0882	Jane Smith 	U.S.A	04-09-2023	Theta/111vht	6521    USD	4259 USD
+0883	   John Doe  	UAE	04-25-2023	Epsilon/243n48	8075    USD	1658 USD
+0884	   Frank Thomas  	UAE	12-29-2022	Beta/ynyoqv	 8332    USD	1356 USD
+0885	  Alice Johnson  	US	2022/02/13	Iota/hjfqdq	   1529 USD	
+0886	 Charlie Davis   	France	2022/03/13	Beta/n2y23e	  5354    USD	4195 USD
+0887	 John Doe   	USA	2023/03/13	Delta/hm15wf	 2782  USD	2982 USD
+0888	 Frank Thomas	BR	04-01-2023	Beta/exfd3s	9310    USD	2938 USD
+0889	John Doe	BR	2023/04/21	Zeta/tyvqka	  1318   USD	899 USD
+0890	  Alice Johnson   	AE	09-16-2022	Beta/dw6pt6	 1653  USD	
+0891	   Frank Thomas  	France	02-16-2023	Epsilon/0sydru	  7445 USD	3897 USD
+0892	   Jane Smith	FR	2023/09/27	Kappa/zasd88	  6252   USD	
+0893	Charlie Davis	FRA	12-06-2022	Alpha/7svgj8	4140    USD	2274 USD
+0894	   Bob Brown  	U.K	2023/09/30	Gamma/2thofv	 4756  USD	4332 USD
+0895	   John Doe	UK	08-07-2022	Delta/x4lgue	  8444 USD	4334 USD
+0896	 John Doe  	AE	05-03-2022	Alpha/6yjlcx	7114    USD	1898 USD
+0897	  Alice Johnson   	United Kingdom	07-28-2023	Iota/ge2rww	   9772  USD	343 USD
+0898	  Eve Wilson 	United Kingdom	11-20-2023	Eta/laswbk	  3603   USD	2389 USD
+0899	   John Doe   	United Arab Emirates	10-19-2022	Beta/lbjjd9	   4016 USD	2791 USD
+0900	 Alice Johnson	Brazil	2023/09/21	Beta/muox5i	1973   USD	4073 USD
+0901	 Jane Smith	United Arab Emirates	05-21-2022	Epsilon/3ayxx9	   4907    USD	1026 USD
+0902	   Eve Wilson   	BRA	06-15-2022	Gamma/y4o6ng	   5359 USD	3791 USD
+0903	Frank Thomas 	BR	2022/12/19	Kappa/xgt06l	1617  USD	4739 USD
+0904	 Jane Smith  	U.A.E	07-12-2022	Iota/xretsd	 4554   USD	1420 USD
+0905	  Eve Wilson 	United Kingdom	2023/05/21	Gamma/os33si	   624 USD	4460 USD
+0906	Frank Thomas	BR	04-24-2023	Iota/bd46of	5222 USD	1935 USD
+0907	  Eve Wilson	France	2022/03/30	Epsilon/t7i9sv	  8088 USD	2282 USD
+0908	Frank Thomas 	Brazil	04-14-2023	Eta/rfmjp6	  2714  USD	1128 USD
+0909	Charlie Davis  	USA	2022/06/12	Beta/dkip3d	 2939   USD	2887 USD
+0910	  Frank Thomas 	France	11-30-2022	Epsilon/3sm4wr	8043  USD	4491 USD
+0911	Bob Brown	Ind	06-17-2022	Alpha/58zkn2	  1534    USD	4141 USD
+0912	 Eve Wilson   	AE	2022/12/09	Delta/544m4t	2119    USD	707 USD
+0913	Charlie Davis  	BR	2022/01/10	Gamma/93qbqm	  6002 USD	1450 USD
+0914	  Frank Thomas	US	11-23-2022	Alpha/v0trwp	9913    USD	4978 USD
+0915	  John Doe  	France	2023/10/16	Beta/39fg7f	8024  USD	
+0916	   Bob Brown  	Ind	2023/07/12	Theta/1j17y5	8884  USD	4446 USD
+0917	  Bob Brown  	US	2022/01/19	Epsilon/80v7gx	   3149  USD	
+0918	  John Doe   	US	2022/01/04	Beta/vaal6v	   7501    USD	4203 USD
+0919	   Frank Thomas  	United Arab Emirates	11-30-2023	Theta/n36x6y	   5266 USD	2495 USD
+0920	   Jane Smith	BR	2023/03/16	Kappa/omd80g	  5649   USD	1745 USD
+0921	   John Doe	UK	03-24-2022	Alpha/jhgwot	  3618  USD	
+0922	   Charlie Davis	United Kingdom	2023/03/22	Zeta/xy263r	 9589   USD	345 USD
+0923	 Bob Brown	United Kingdom	2023/07/10	Eta/nrvvar	2561   USD	2116 USD
+0924	Frank Thomas   	France	2022/03/18	Alpha/ms94k7	   7894  USD	3424 USD
+0925	John Doe 	U.S.A	04-18-2023	Iota/7ehktm	5819  USD	2802 USD
+0926	Bob Brown  	U.S.A	04-19-2022	Beta/n3imgj	 9177   USD	2766 USD
+0927	   Jane Smith 	UK	06-04-2022	Epsilon/xoe71x	4354  USD	3673 USD
+0928	  Alice Johnson	U.S.A	09-02-2023	Zeta/xszysj	 4854 USD	2169 USD
+0929	 Alice Johnson	United Kingdom	09-02-2023	Eta/ptunyb	  8069   USD	3557 USD
+0930	Eve Wilson	UK	2022/07/01	Zeta/nn2vby	7790    USD	4570 USD
+0931	  Alice Johnson	AE	2022/10/09	Delta/0vang1	7199   USD	2338 USD
+0932	  Jane Smith   	US	10-16-2022	Beta/m0sftb	  4606   USD	4723 USD
+0933	   John Doe  	BR	08-07-2023	Iota/xwcqvd	  1706    USD	
+0934	   John Doe 	U.S.A	2022/01/19	Zeta/awjev0	 7931   USD	2344 USD
+0935	Eve Wilson	United States	2022/05/07	Delta/gbz2ob	   6187   USD	1815 USD
+0936	 Charlie Davis 	United Kingdom	01-22-2022	Kappa/3ys3un	8367  USD	1299 USD
+0937	Alice Johnson	AE	2023/05/17	Gamma/nsyze4	   2706    USD	4902 USD
+0938	   Jane Smith 	U.S.A	03-07-2023	Alpha/d6znsh	   6670   USD	1874 USD
+0939	  Alice Johnson   	UK	07-23-2022	Zeta/t1caz5	7043 USD	3288 USD
+0940	Bob Brown  	U.S.A	2022/04/24	Gamma/r2wdrh	 2589 USD	3578 USD
+0941	Eve Wilson  	U.A.E	2023/09/20	Beta/exkko7	 9132   USD	551 USD
+0942	  Charlie Davis	U.A.E	2023/02/15	Epsilon/zv1jdi	 257 USD	4230 USD
+0943	   Jane Smith   	US	2022/02/12	Alpha/xje39y	   1140  USD	657 USD
+0944	   Eve Wilson 	U.A.E	2023/02/11	Kappa/9ypfkt	 5400 USD	450 USD
+0945	  Frank Thomas 	U.K	11-15-2022	Zeta/i5vmxu	 8567 USD	1108 USD
+0946	Alice Johnson 	U.K	10-02-2022	Theta/2mu8b3	   4782  USD	
+0947	Charlie Davis   	USA	2022/10/16	Epsilon/4c2s5g	  9859 USD	2395 USD
+0948	  Eve Wilson 	Ind	06-20-2023	Beta/lt2npw	204    USD	1608 USD
+0949	Frank Thomas 	US	2022/02/11	Delta/k8xz3d	 5565 USD	2027 USD
+0950	Bob Brown  	United Kingdom	2022/12/05	Epsilon/gzp742	 571  USD	881 USD
+0951	 Jane Smith 	BR	12-19-2023	Zeta/rnlyk0	6728  USD	1411 USD
+0952	Bob Brown	UK	2023/06/02	Kappa/2o4tj8	   8043   USD	846 USD
+0953	   Frank Thomas	Brazil	2023/11/10	Zeta/xoimst	6758   USD	3402 USD
+0954	   Eve Wilson   	Ind	2023/04/11	Delta/ahhepm	   880 USD	3398 USD
+0955	  Bob Brown   	India	02-09-2023	Iota/5iu8u5	8133  USD	1383 USD
+0956	 Eve Wilson	U.A.E	2022/06/15	Beta/iugund	5793   USD	4667 USD
+0957	   Bob Brown   	AE	05-18-2022	Alpha/35db46	  2482    USD	1463 USD
+0958	   Alice Johnson   	U.S.A	11-12-2023	Zeta/pvx627	  7839    USD	3083 USD
+0959	 Frank Thomas   	BR	2022/01/17	Iota/bns3mb	   2092 USD	1581 USD
+0960	 Charlie Davis	U.A.E	09-08-2022	Beta/d6h2kd	1008  USD	4213 USD
+0961	   Charlie Davis  	IN	2022/06/26	Eta/o59ves	 3975 USD	
+0962	Frank Thomas 	AE	05-28-2023	Delta/2upevo	  1630  USD	2880 USD
+0963	  Frank Thomas   	U.K	2022/09/18	Iota/f3t57n	   6465  USD	2908 USD
+0964	 Jane Smith   	BR	2022/02/01	Gamma/3kzzyw	450   USD	927 USD
+0965	   Bob Brown  	UK	2022/09/30	Alpha/c4t7i9	4813   USD	
+0966	  Alice Johnson  	US	01-31-2023	Kappa/msar4c	   9461   USD	2106 USD
+0967	 Bob Brown  	IN	05-13-2022	Zeta/p5j9ia	  7113 USD	946 USD
+0968	 Alice Johnson   	UK	10-18-2023	Theta/a0oizo	 6437   USD	1719 USD
+0969	  John Doe  	U.S.A	2022/01/27	Alpha/5p1qmv	4357  USD	4451 USD
+0970	John Doe	FR	2023/02/24	Eta/iuzsc9	1195  USD	2309 USD
+0971	John Doe   	Bra	2023/05/27	Delta/gdhpse	  7743    USD	
+0972	  Eve Wilson	IN	05-16-2023	Zeta/ncsc4j	   3852    USD	
+0973	  Alice Johnson  	USA	03-28-2023	Gamma/zymx3l	2344   USD	1947 USD
+0974	 Frank Thomas	UK	02-07-2023	Beta/ui9ir7	  938   USD	3253 USD
+0975	  John Doe	Bra	2023/09/28	Zeta/aamqw0	7647  USD	688 USD
+0976	  Bob Brown 	FRA	2022/10/05	Kappa/lv1e6m	   3881    USD	4499 USD
+0977	  Alice Johnson  	United States	08-04-2022	Delta/nk8lqz	7101   USD	3003 USD
+0978	 Charlie Davis	United Kingdom	04-02-2022	Eta/hhzcmq	  237  USD	3616 USD
+0979	 Eve Wilson   	Bra	2022/06/07	Iota/xpt5ey	  6879    USD	1282 USD
+0980	 Alice Johnson   	BR	2023/12/03	Kappa/eniodo	6091    USD	4393 USD
+0981	Bob Brown	U.A.E	2023/10/15	Iota/6x7eiw	3521   USD	3200 USD
+0982	 Charlie Davis   	United States	05-26-2022	Kappa/42z6p8	3841 USD	182 USD
+0983	   Eve Wilson 	U.K	2022/04/18	Zeta/vte0fm	   1955    USD	274 USD
+0984	   Charlie Davis   	IN	2022/09/20	Beta/51k7g5	  8043   USD	4523 USD
+0985	   Jane Smith	France	2023/04/02	Theta/b2smnt	2143   USD	4963 USD
+0986	Charlie Davis  	Brazil	2023/03/12	Theta/05zn0v	 2444  USD	1467 USD
+0987	  Jane Smith 	IND	12-27-2022	Epsilon/u4l1ff	  6731   USD	920 USD
+0988	John Doe  	AE	04-15-2022	Zeta/bd6d07	   1279  USD	2920 USD
+0989	  Eve Wilson   	US	2022/11/08	Beta/zwl4hw	 414 USD	1729 USD
+0990	  Eve Wilson	UAE	08-07-2023	Beta/ggq55d	7820   USD	
+0991	  Frank Thomas 	Ind	10-12-2022	Eta/vbcyr5	1971   USD	2951 USD
+0992	Charlie Davis 	Brazil	04-14-2023	Alpha/k9krae	 9237  USD	
+0993	Alice Johnson  	U.S.A	09-22-2023	Gamma/uwc5qq	7515    USD	
+0994	  Bob Brown	IND	2022/09/14	Beta/dyny9y	  2211 USD	1259 USD
+0995	John Doe	FR	2022/03/06	Kappa/6bdmmn	247  USD	3194 USD
+0996	  Alice Johnson 	Bra	2022/07/14	Eta/2gq06r	  4472  USD	3981 USD
+0997	 Frank Thomas	U.K	2022/02/28	Delta/3lxati	9749 USD	4261 USD
+0998	Eve Wilson  	Bra	12-21-2022	Iota/xpyf8s	 423 USD	4819 USD
+0999	   Jane Smith   	Ind	01-22-2023	Eta/igyng2	 206    USD	3875 USD
+1000	   Frank Thomas   	U.S.A	2023/09/28	Eta/n62a6m	8487    USD	1260 USD
